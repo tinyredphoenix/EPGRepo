@@ -1,0 +1,1083 @@
+include,xmltv_id,raw_name,provider,confidence,score,matched_db_name,grab_site,grab_site_id
+yes,10TV.in@SD,10 TV,meowfy,auto,100.0,10 TV,dishtv.in,142495
+yes,22ScopeNews.in@jiotv,22Scope News,meowfy,auto,100.0,22Scope News,jiotv.com,2082
+yes,4TV.in@jiotv,4 TV,meowfy,auto,100.0,4 TV,jiotv.com,933
+yes,6TV.in@jiotv,6 TV,meowfy,auto,100.0,6 TV,jiotv.com,670
+yes,7SMusic.in@SD,7X Music,meowfy,likely,87.5,7S Music,airtelxstream.in,LIVETV_LIVETVCHANNEL_7S_MUSIC
+yes,99TV.in@jiotv,99 TV,meowfy,auto,100.0,99 TV,jiotv.com,2932
+yes,9XJalwa.in@SD,9X JALWA [IN],sktech,auto,100.0,9X Jalwa,airtelxstream.in,LIVETV_LIVETVCHANNEL_9X_JALWA
+yes,9XM.in@SD,9XM [IN],sktech,auto,100.0,9XM,dishtv.in,77447
+yes,9XTashan.in@SD,9X TASHAN [IN],sktech,auto,100.0,9X Tashan,dishtv.in,142504
+yes,ABCAustralia.au@SD,ABC Australia,meowfy,auto,100.0,ABC Australia,tataplay.com,1464
+yes,ABNAndhraJyoti.in@SD,ABN Andhra Jyothi,meowfy,auto,97.0,ABN Andhra Jyoti,dishtv.in,142517
+yes,ABPAnanda.in@SD,ABP Ananda,meowfy,auto,100.0,ABP Ananda,dishtv.in,142518
+yes,ABPAnanda.in@SD,ABP ANANDA [BENGALI],sktech,auto,100.0,ABP Ananda,dishtv.in,142518
+yes,ABPAsmita.in@SD,ABP Asmita,meowfy,auto,100.0,ABP Asmita,dishtv.in,142519
+yes,ABPGanga.in@jiotv,ABP Ganga,meowfy,auto,100.0,ABP Ganga,jiotv.com,1205
+yes,ABPGanga.in@jiotv,ABP GANGA [IN],sktech,auto,100.0,ABP Ganga,jiotv.com,1205
+yes,ABPMajha.in@SD,ABP Majha,meowfy,auto,100.0,ABP Majha,dishtv.in,142521
+review,ABPMajha.in@SD,ABP Sanjha,meowfy,review,84.2,ABP Majha,dishtv.in,142521
+yes,ABPNews.in@SD,BHP News,meowfy,likely,87.5,ABP News,dishtv.in,158138
+yes,ABPNews.in@SD,ABP NEWS [IN-UK],sktech,auto,100.0,ABP News,dishtv.in,158138
+yes,ABPNews.in@SD,ABP NEWS [IN],sktech,auto,100.0,ABP News,dishtv.in,158138
+yes,AKDCalcuttaNews.in@SD,Calcutta News,meowfy,auto,100.0,AKD Calcutta News,dishtv.in,142725
+yes,AKDCalcuttaNews.in@SD,CALCUTTA NEWS [BENGALI],sktech,auto,100.0,AKD Calcutta News,dishtv.in,142725
+yes,AMV.in@jiotv,AMV,meowfy,auto,100.0,AMV,jiotv.com,3007
+yes,ANBNews.in@SD,ANB News,meowfy,auto,100.0,ANB News,airtelxstream.in,LIVETV_LIVETVCHANNEL_ANB_NEWS
+yes,ANBNews.in@SD,ANB NEWS [IN],sktech,auto,100.0,ANB News,airtelxstream.in,LIVETV_LIVETVCHANNEL_ANB_NEWS
+yes,APN.in@SD,IPN News,meowfy,likely,87.5,APN,tataplay.com,286
+yes,APN.in@SD,APN NEWS [IN],sktech,auto,100.0,APN,tataplay.com,286
+yes,AadinathTV.in@SD,Aadinath TV,meowfy,auto,100.0,Aadinath TV,dishtv.in,142505
+yes,AajTak.in@SD,Aaj Tak,meowfy,auto,100.0,Aaj Tak,dishtv.in,142507
+review,AajTak.in@SD,AAJ TAKTEZ HD [IN],sktech,review,82.4,Aaj Tak,dishtv.in,142507
+yes,AajTak.in@SD,AAJ TAK [IN-UK],sktech,auto,100.0,Aaj Tak,dishtv.in,142507
+yes,AajTak.in@SD,AAJ TAK HD [IN],sktech,auto,100.0,Aaj Tak,dishtv.in,142507
+yes,AajTak.in@SD,AAJ TAK [IN],sktech,auto,100.0,Aaj Tak,dishtv.in,142507
+yes,AakaashAath.in@SD,Aakash Aath,meowfy,auto,100.0,Aakaash Aath,dishtv.in,142510
+review,AaryaaBhakti.in@jiotv,Adhya Bhakti,meowfy,likely,80.0,Aaryaa Bhakti,jiotv.com,2029
+review,AaseervathamTV.in@SD,AASTHA TV USA [IN],sktech,review,75.0,Aaseervatham TV,airtelxstream.in,LIVETV_LIVETVCHANNEL_AASEERVATHAM_TV
+yes,Aastha.in@SD,Aastha,meowfy,auto,100.0,Aastha,dishtv.in,158133
+yes,Aastha.in@SD,AASTHA HD [IN],sktech,auto,100.0,Aastha,dishtv.in,158133
+yes,Aastha.in@SD,AASTHA [IN],sktech,auto,100.0,Aastha,dishtv.in,158133
+yes,Aastha.in@SD,AASTHA [IN-UK],sktech,auto,100.0,Aastha,dishtv.in,158133
+yes,AasthaBhajan.in@SD,Aastha Bhajan,meowfy,auto,100.0,Aastha Bhajan,dishtv.in,142514
+yes,AasthaBhajan.in@SD,AASTHA BHAJAN [IN],sktech,auto,100.0,Aastha Bhajan,dishtv.in,142514
+yes,AasthaGujarati.in@jiotv,Aastha Gujarati,meowfy,auto,100.0,Aastha Gujarati,jiotv.com,1255
+yes,AasthaKannada.in@SD,Aastha Kannada,meowfy,auto,100.0,Aastha Kannada,dishtv.in,158134
+yes,AasthaTelugu.in@SD,Aastha Telugu,meowfy,auto,100.0,Aastha Telugu,dishtv.in,158136
+yes,AdithyaTV.in@SD,ADITHYA TV [IN],sktech,auto,100.0,Adithya TV,dishtv.in,142548
+yes,AlJazeera.qa@English,AL Jazeera,meowfy,auto,100.0,Al Jazeera,dishtv.in,159135
+yes,AlankarTV.in@SD,Alankar,meowfy,auto,100.0,Alankar TV,dishtv.in,142630
+yes,AllWomensSportsNetwork.in@jiotv,All Women's Sports Network,meowfy,auto,100.0,All Women's Sports Network,jiotv.com,3146
+yes,AmritaTV.in@SD,Amrita TV,meowfy,auto,100.0,Amrita TV,dishtv.in,142632
+yes,AmritaTV.in@SD,Amritwani TV,meowfy,likely,85.7,Amrita TV,dishtv.in,142632
+yes,AnaadiTV.in@SD,Anaadi TV,meowfy,auto,100.0,Anaadi TV,tataplay.com,937
+yes,AnaadiTV.in@SD,ANAADI TV [IN],sktech,auto,100.0,Anaadi TV,tataplay.com,937
+yes,AndTV.in@SD,And TV HD,meowfy,auto,100.0,&TV,dishtv.in,142640
+yes,AndTV.in@SD,AND TV USA FHD [IN],sktech,auto,100.0,&TV,dishtv.in,142640
+yes,AndTV.in@SD,AND TV FHD [IN],sktech,auto,100.0,&TV,dishtv.in,142640
+yes,Andpictures.in@SD,And Pictures HD,meowfy,auto,100.0,&pictures,dishtv.in,142637
+yes,Andpictures.in@SD,And Pictures,meowfy,auto,100.0,&pictures,dishtv.in,142637
+yes,Andpictures.in@SD,AND PICTURES FHD [IN],sktech,auto,100.0,&pictures,dishtv.in,142637
+yes,AndxplorHD.in@HD,And Xplor HD,meowfy,auto,100.0,&xplor HD,airtelxstream.in,LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD
+yes,AndxplorHD.in@HD,AND EXPLORER FHD [IN],sktech,likely,85.7,&xplor HD,airtelxstream.in,LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD
+yes,AngelTV.gh@SD,Angel TV HD,meowfy,auto,100.0,Angel TV,tataplay.com,282
+review,AnimalPlanet.in@SD,Animal Planet HD Hindi,meowfy,review,75.2,Animal Planet,dishtv.in,157574
+review,AnimalPlanet.in@SD,Animal Planet Hindi,meowfy,review,75.2,Animal Planet,dishtv.in,157574
+yes,AnimalPlanet.in@SD,ANIMAL PLANET HD [IN],sktech,auto,100.0,Animal Planet,dishtv.in,157574
+yes,AnimalPlanet.in@SD,ANIMAL PLANET FHD [IN],sktech,auto,100.0,Animal Planet,dishtv.in,157574
+yes,Animax.in@jiotv,Animax,meowfy,auto,100.0,Animax,jiotv.com,2258
+yes,AnjanTV.in@SD,Anjan TV,meowfy,auto,100.0,Anjan TV,tataplay.com,180
+review,AnjanTV.in@SD,MANJARI TV [BENGALI],sktech,review,77.8,Anjan TV,tataplay.com,180
+review,AnmolCinema2.in@SD,Zee Anmol Cinema 2,meowfy,review,81.5,Anmol Cinema 2,dishtv.in,144449
+yes,AnmolTV.in@SD,Anmol TV,meowfy,auto,100.0,Anmol TV,dishtv.in,144435
+review,AnmolTV.in@SD,NL TV,meowfy,review,76.9,Anmol TV,dishtv.in,144435
+yes,AradanaTV.in@SD,Aradhana TV,meowfy,auto,95.2,Aradana TV,dishtv.in,142649
+yes,ArgusNews.in@SD,Argus News,meowfy,auto,100.0,Argus News,dishtv.in,142650
+yes,AryanTVNational.in@SD,Aryan TV National,meowfy,auto,100.0,Aryan TV National,airtelxstream.in,LIVETV_LIVETVCHANNEL_ARYAN_TV_NATIONAL
+yes,Asianet.in@SD,Asianet HD,meowfy,auto,100.0,Asianet,dishtv.in,142668
+yes,Asianet.in@SD,Asianet,meowfy,auto,100.0,Asianet,dishtv.in,142668
+review,Asianet.in@SD,ASIANET TV FHD [IN],sktech,review,76.4,Asianet,dishtv.in,142668
+yes,AsianetMovies.in@SD,Asianet Movies HD,meowfy,auto,100.0,Asianet Movies,dishtv.in,142677
+yes,AsianetNews.in@SD,Asianet News,meowfy,auto,100.0,Asianet News,dishtv.in,142679
+yes,AsianetNews.in@SD,Asian News,meowfy,auto,90.9,Asianet News,dishtv.in,142679
+yes,AsianetPlus.in,Asianet Plus,meowfy,auto,100.0,Asianet Plus,dishtv.in,142680
+yes,AsianetPlus.in,ASIANET PLUS [IN],sktech,auto,100.0,Asianet Plus,dishtv.in,142680
+yes,AsianetSuvarnaNews.in@SD,Suvarna News,meowfy,auto,100.0,Asianet Suvarna News,dishtv.in,142682
+yes,AssamTalks.in@SD,Assam Talks,meowfy,auto,100.0,Assam Talks,dishtv.in,142683
+yes,AyushTV.in@SD,Ayush TV,meowfy,auto,100.0,Ayush TV,dishtv.in,142692
+yes,B4UBhojpuri.in@SD,B4U Bhojpuri,meowfy,auto,100.0,B4U Bhojpuri,dishtv.in,142694
+yes,B4UKadak.in@SD,B4U KADAK [IN],sktech,auto,100.0,B4U Kadak,dishtv.in,142695
+yes,B4UMovies.in@India,B4U MOVIES USA [IN],sktech,auto,100.0,B4U Movies,dishtv.in,140063
+yes,B4UMovies.in@India,B4U MOVIES [IN],sktech,auto,100.0,B4U Movies,dishtv.in,140063
+yes,B4UMovies.in@India,B4U MOVIES [IN-UK],sktech,auto,100.0,B4U Movies,dishtv.in,140063
+yes,B4UMusic.in@India,B4U MUSIC USA [IN],sktech,auto,100.0,B4U Music,dishtv.in,158141
+yes,B4UMusic.in@India,B4U MUSIC [IN],sktech,auto,100.0,B4U Music,dishtv.in,158141
+yes,B4UMusic.in@India,B4U MUSIC [IN-UK],sktech,auto,100.0,B4U Music,dishtv.in,158141
+yes,BIGTV.in@SD,Big TV,meowfy,auto,100.0,BIG TV,airtelxstream.in,LIVETV_LIVETVCHANNEL_BIG_TV
+review,BIGTV.in@SD,Brio TV,meowfy,review,76.9,BIG TV,airtelxstream.in,LIVETV_LIVETVCHANNEL_BIG_TV
+yes,BRAVETV.in@jiotv,BRAVE TV,meowfy,auto,100.0,BRAVE TV,jiotv.com,2766
+yes,BS9News.in@jiotv,BS9 News,meowfy,auto,100.0,BS9 News,jiotv.com,2007
+yes,BVG.in@jiotv,BVG,meowfy,auto,100.0,BVG,jiotv.com,3048
+yes,Badakhabar.in@jiotv,Badakhabar,meowfy,auto,100.0,Badakhabar,jiotv.com,1692
+review,BalleBalle.in@SD,Balle Balle TV,meowfy,review,82.0,Balle Balle,dishtv.in,142697
+yes,BanglaBhakti.in@jiotv,Bangla Bhakti,meowfy,auto,100.0,Bangla Bhakti,jiotv.com,1605
+yes,BanglaJago.in@jiotv,Bangla Jago,meowfy,auto,100.0,Bangla Jago,jiotv.com,3019
+yes,BansalNews.in@SD,Bansal News,meowfy,auto,100.0,Bansal News,airtelxstream.in,LIVETV_LIVETVCHANNEL_BANSAL_NEWS
+review,BansalNews.in@SD,National News,meowfy,review,75.0,Bansal News,airtelxstream.in,LIVETV_LIVETVCHANNEL_BANSAL_NEWS
+yes,BhakthiTV.in@SD,Bhakti TV,meowfy,auto,100.0,Bhakthi TV,dishtv.in,142709
+review,BhakthiTV.in@SD,Thanthi TV,meowfy,review,80.0,Bhakthi TV,dishtv.in,142709
+yes,BhaktiSagarTV.in@jiotv,Bhakti Sagar TV,meowfy,auto,100.0,Bhakti Sagar TV,jiotv.com,939
+yes,Bharat24.in@SD,Bharat 24,meowfy,auto,100.0,Bharat24,dishtv.in,142710
+yes,BharatAtoZ.in@jiotv,Bharat AtoZ,meowfy,auto,100.0,Bharat AtoZ,jiotv.com,1741
+yes,BharatExpress.in@SD,Bharat Express,meowfy,auto,100.0,Bharat Express,dishtv.in,142711
+review,BharatSamachar.in@SD,ATN Samachar,meowfy,review,81.5,Bharat Samachar,airtelxstream.in,LIVETV_LIVETVCHANNEL_BHARAT_SAMACHAR
+yes,BharatTimesNews.in@jiotv,Bharat Times News,meowfy,auto,100.0,Bharat Times News,jiotv.com,3191
+yes,BharatUpdate.in@jiotv,Bharat Update,meowfy,auto,100.0,Bharat Update,jiotv.com,3068
+review,BhojpuriCinema.in@SD,Bhojpuri Junction,meowfy,review,75.0,Bhojpuri Cinema,dishtv.in,142713
+yes,BigMagic.in@SD,Big Magic,meowfy,auto,100.0,Big Magic,dishtv.in,142715
+yes,BirlaBrainiacs.in@jiotv,Birla Brainiacs,meowfy,auto,100.0,Birla Brainiacs,jiotv.com,1521
+yes,BritAsia.in@jiotv,Brit Asia,meowfy,auto,100.0,Brit Asia,jiotv.com,1192
+yes,BuletinIndia.in@jiotv,Buletin India,meowfy,auto,100.0,Buletin India,jiotv.com,1759
+yes,CBeebies.uk@SD,CBEEBIES [IN],sktech,auto,100.0,CBeebies,airtelxstream.in,LIVETV_LIVETVCHANNEL_CBEEBIES
+yes,CNBCAwaaz.in@SD,CNBC Awaaz,meowfy,auto,100.0,CNBC Awaaz,dishtv.in,142745
+yes,CNBCAwaaz.in@SD,CNBC AWAAZ [IN],sktech,auto,100.0,CNBC Awaaz,dishtv.in,142745
+yes,CNBCTV18.in@SD,CNBC TV18,meowfy,auto,100.0,CNBC TV18,dishtv.in,142743
+yes,CNBCTV18PrimeHD.in@SD,CNBC TV18 Prime,meowfy,auto,100.0,CNBC TV18 Prime HD,dishtv.in,142744
+yes,CNNInternational.us@SouthAsia,CNN,meowfy,auto,100.0,CNN International,dishtv.in,157679
+yes,CNNNews18.in@SD,CNN NEWS18,meowfy,auto,100.0,CNN News 18,dishtv.in,142747
+yes,CTVNAKDPlus.in@SD,Ctvn Akd Plus,meowfy,auto,100.0,CTVN AKD Plus,dishtv.in,142754
+yes,CVREnglish.in@jiotv,CVR English,meowfy,auto,100.0,CVR English,jiotv.com,787
+yes,CVRHealth.in@jiotv,CVR Health,meowfy,auto,100.0,CVR Health,jiotv.com,774
+yes,CVRNews.in@SD,CVR News,meowfy,auto,100.0,CVR News,airtelxstream.in,LIVETV_LIVETVCHANNEL_CVR_NEWS
+yes,CVROMSpiritual.in@jiotv,CVR OM Spiritual,meowfy,auto,100.0,CVR OM Spiritual,jiotv.com,772
+review,CalvaryTV.in@SD,Calvary,meowfy,review,76.4,Calvary TV,tataplay.com,1318
+yes,CartoonNetwork.in@SD,Cartoon Network HD+,meowfy,auto,100.0,Cartoon Network,dishtv.in,157576
+yes,CartoonNetwork.in@SD,Cartoon Network,meowfy,auto,100.0,Cartoon Network,dishtv.in,157576
+yes,CartoonNetwork.in@SD,CARTOON NETWORK [IN],sktech,auto,100.0,Cartoon Network,dishtv.in,157576
+yes,ChanakyaNewsIndiaRajasthan.in@jiotv,Chanakya News India Rajasthan,meowfy,auto,100.0,Chanakya News India Rajasthan,jiotv.com,3189
+yes,ChanakyaNewsNational.in@jiotv,Chanakya News National,meowfy,auto,100.0,Chanakya News National,jiotv.com,3190
+yes,ChannelNewsAsiaInternational.in@jiotv,Channel News Asia International,meowfy,auto,100.0,Channel News Asia International,jiotv.com,764
+yes,ChannelWIN.in@SD,Channel Win,meowfy,auto,100.0,Channel WIN,airtelxstream.in,LIVETV_LIVETVCHANNEL_CHANNEL_WIN
+yes,ChardiklaTimeTV.in@SD,Chardikla Time TV,meowfy,auto,100.0,Chardikla Time TV,dishtv.in,142736
+yes,Colors.in@SD,Colors HD,meowfy,auto,100.0,Colors,dishtv.in,158144
+yes,Colors.in@SD,COLORS HD [BENGALI],sktech,auto,100.0,Colors,dishtv.in,158144
+yes,Colors.in@SD,COLORS [BENGALI],sktech,auto,100.0,Colors,dishtv.in,158144
+yes,Colors.in@SD,COLORS FHD [IN],sktech,auto,100.0,Colors,dishtv.in,158144
+yes,Colors.in@SD,COLORS FHD [IN-UK],sktech,auto,100.0,Colors,dishtv.in,158144
+yes,Colors.in@SD,COLORS HD [IN-UK],sktech,auto,100.0,Colors,dishtv.in,158144
+yes,Colors.in@SD,COLORS [IN-UK],sktech,auto,100.0,Colors,dishtv.in,158144
+yes,ColorsBangla.in@SD,Colors Bangla HD,meowfy,auto,100.0,Colors Bangla,dishtv.in,157577
+yes,ColorsBangla.in@SD,Colors Bangla SD,meowfy,auto,100.0,Colors Bangla,dishtv.in,157577
+yes,ColorsBangla.in@SD,COLORS BANGLA [IN-UK],sktech,auto,100.0,Colors Bangla,dishtv.in,157577
+yes,ColorsBanglaCinema.in@SD,Colors Bangla Cinema,meowfy,auto,100.0,Colors Bangla Cinema,dishtv.in,142748
+yes,ColorsCineplex.in@SD,Colors Cineplex,meowfy,auto,100.0,Colors Cineplex,dishtv.in,158146
+yes,ColorsCineplex.in@SD,COLORS CINEPLEX [IN-UK],sktech,auto,100.0,Colors Cineplex,dishtv.in,158146
+yes,ColorsCineplexBollywood.in@SD,Colors Cineplex Bollywood,meowfy,auto,100.0,Colors Cineplex Bollywood,dishtv.in,142749
+yes,ColorsCineplexBollywood.in@SD,COLORS CINEPLEX BOLLYWOOD [IN],sktech,auto,100.0,Colors Cineplex Bollywood,dishtv.in,142749
+yes,ColorsCineplexSuperhits.in@SD,Colors Cineplex Superhit,meowfy,auto,98.0,Colors Cineplex Superhits,dishtv.in,142750
+yes,ColorsGujarati.in@SD,Colors Gujarati,meowfy,auto,100.0,Colors Gujarati,dishtv.in,158148
+yes,ColorsGujarati.in@SD,COLORS GUJRATI [IN-UK],sktech,auto,96.6,Colors Gujarati,dishtv.in,158148
+yes,ColorsGujaratiCinema.in@SD,Colors Gujarati Cinema,meowfy,auto,100.0,Colors Gujarati Cinema,dishtv.in,142751
+yes,ColorsInfinity.in@SD,Colors Infinity HD,meowfy,auto,100.0,Colors Infinity,dishtv.in,157578
+yes,ColorsInfinity.in@SD,Colors Infinity SD,meowfy,auto,100.0,Colors Infinity,dishtv.in,157578
+yes,ColorsInfinity.in@SD,COLORS INFINITY FHD [IN],sktech,auto,100.0,Colors Infinity,dishtv.in,157578
+yes,ColorsKannada.in@SD,Colors Kannada HD,meowfy,auto,100.0,Colors Kannada,dishtv.in,157579
+yes,ColorsKannada.in@SD,Colors Kannada SD,meowfy,auto,100.0,Colors Kannada,dishtv.in,157579
+yes,ColorsKannada.in@SD,COLORS KANNADA [IN-UK],sktech,auto,100.0,Colors Kannada,dishtv.in,157579
+yes,ColorsKannadaCinema.in@SD,Colors Kannada Cinema,meowfy,auto,100.0,Colors Kannada Cinema,dishtv.in,142752
+yes,ColorsMarathi.in@SD,Colors Marathi HD,meowfy,auto,100.0,Colors Marathi,dishtv.in,157580
+yes,ColorsMarathi.in@SD,Colors Marathi SD,meowfy,auto,100.0,Colors Marathi,dishtv.in,157580
+yes,ColorsMarathi.in@SD,COLORS MARATHI [IN-UK],sktech,auto,100.0,Colors Marathi,dishtv.in,157580
+yes,ColorsRishteyAsia.in@SD,Colors Rishtey,meowfy,auto,100.0,,dishtv.in,158239
+yes,ColorsRishteyAsia.in@SD,COLORS RISHTEY [IN-UK],sktech,auto,100.0,,dishtv.in,158239
+yes,ColorsSuper.in@SD,Colors Super,meowfy,auto,100.0,Colors Super,dishtv.in,158240
+yes,ColorsTamil.in@SD,Colors Tamil HD,meowfy,auto,100.0,Colors Tamil,dishtv.in,157682
+yes,ColorsTamil.in@SD,Colors Tamil,meowfy,auto,100.0,Colors Tamil,dishtv.in,157682
+review,ColorsTamil.in@SD,COLORS TV HD [IN],sktech,review,76.2,Colors Tamil,dishtv.in,157682
+yes,DANewsPlus.in@jiotv,DA News Plus,meowfy,auto,100.0,DA News Plus,jiotv.com,1797
+yes,DD5Podhigai.in@jiotv,DD5 Podhigai,meowfy,auto,100.0,DD5 Podhigai,jiotv.com,726
+yes,DD9chandanakannada.in@jiotv,DD9 chandana (kannada),meowfy,auto,100.0,DD9 chandana (kannada),jiotv.com,713
+yes,DDArunPrabha.in@SD,DD Arunprabha,meowfy,auto,100.0,DD Arun Prabha,dishtv.in,142776
+yes,DDBangla.in@SD,DD Bangla,meowfy,auto,100.0,DD Bangla,dishtv.in,142778
+yes,DDBharati.in@SD,DD bharati,meowfy,auto,100.0,DD Bharati,dishtv.in,142779
+yes,DDBharati.in@SD,DD BHARATI [IN],sktech,auto,100.0,DD Bharati,dishtv.in,142779
+yes,DDBharati.in@SD,DD BHARTI [IN],sktech,auto,94.7,DD Bharati,dishtv.in,142779
+yes,DDBihar.in@SD,DD Bihar,meowfy,auto,100.0,DD Bihar,dishtv.in,142780
+yes,DDBihar.in@SD,DD BIHAR [IN],sktech,auto,100.0,DD Bihar,dishtv.in,142780
+yes,DDGirnar.in@SD,DD Girnar,meowfy,auto,100.0,DD Girnar,dishtv.in,142782
+yes,DDIndia.in@HD,DD India,meowfy,auto,100.0,DD India,dishtv.in,154545
+yes,DDIndia.in@HD,DD INDIA FHD [IN],sktech,auto,100.0,DD India,dishtv.in,154545
+yes,DDKashir.in@SD,DD Kashir,meowfy,auto,100.0,DD Kashir,dishtv.in,142788
+yes,DDKisan.in@SD,DD Kisan,meowfy,auto,100.0,DD Kisan,dishtv.in,142789
+yes,DDKisan.in@SD,DD KISAN [IN],sktech,auto,100.0,DD Kisan,dishtv.in,142789
+yes,DDMadhyaPradesh.in@SD,DD Madhya Pradesh,meowfy,auto,100.0,DD Madhya Pradesh,dishtv.in,142790
+yes,DDMalayalam.in@SD,DD Malayalam,meowfy,auto,100.0,DD Malayalam,dishtv.in,142791
+yes,DDNational.in@SD,DD National,meowfy,auto,100.0,DD National,dishtv.in,158252
+yes,DDNational.in@SD,DD NATIONAL FHD [IN],sktech,auto,100.0,DD National,dishtv.in,158252
+review,DDNational.in@SD,MATV NATIONAL [IN-UK],sktech,review,75.0,DD National,dishtv.in,158252
+review,DDNews.in@HD,I News,meowfy,review,76.9,DD News,dishtv.in,157683
+yes,DDNews.in@HD,DD News,meowfy,auto,100.0,DD News,dishtv.in,157683
+yes,DDNews.in@HD,DD NEWS HD [IN],sktech,auto,100.0,DD News,dishtv.in,157683
+yes,DDNorthEast.in@jiotv,DD North East,meowfy,auto,100.0,DD North East,jiotv.com,2759
+yes,DDPunjabi.in@SD,DD Punjabi,meowfy,auto,100.0,DD Punjabi,dishtv.in,142800
+review,DDPunjabi.in@SD,JUS Punjabi,meowfy,review,76.2,DD Punjabi,dishtv.in,142800
+yes,DDRajasthan.in@SD,DD Rajasthan (Jaipur),meowfy,auto,100.0,DD Rajasthan,dishtv.in,142801
+yes,DDRajasthan.in@SD,DD RAJASTHAN [IN],sktech,auto,100.0,DD Rajasthan,dishtv.in,142801
+yes,DDSahyadri.in@SD,DD Sahayadri,meowfy,auto,95.7,DD Sahyadri,dishtv.in,142803
+yes,DDSaptagiri.in@SD,DD Saptagiri,meowfy,auto,100.0,DD Saptagiri,dishtv.in,142804
+yes,DDSports.in@SD,DD Sports,meowfy,auto,100.0,DD Sports,dishtv.in,158255
+yes,DDSports.in@SD,DD SPORTS [IN],sktech,auto,100.0,DD Sports,dishtv.in,158255
+review,DDSports.in@SD,A SPORTS HD [SP],sktech,review,82.4,DD Sports,dishtv.in,158255
+yes,DDSports.in@SD,D SPORTS HD [SP],sktech,auto,94.1,DD Sports,dishtv.in,158255
+yes,DDSports.in@SD,DD SPORTS [SP],sktech,auto,100.0,DD Sports,dishtv.in,158255
+yes,DDSwayamPrabha24.in@jiotv,DD Swayam Prabha 24,meowfy,auto,100.0,DD Swayam Prabha 24,jiotv.com,3119
+yes,DDSwayamPrabha30.in@jiotv,DD Swayam Prabha 30,meowfy,auto,100.0,DD Swayam Prabha 30,jiotv.com,3125
+yes,DDSwayamPrabha31.in@jiotv,DD Swayam Prabha 31,meowfy,auto,100.0,DD Swayam Prabha 31,jiotv.com,3126
+yes,DDSwayamPrabha33.in@jiotv,DD Swayam Prabha 33,meowfy,auto,100.0,DD Swayam Prabha 33,jiotv.com,3128
+yes,DDSwayamPrabha34.in@jiotv,DD Swayam Prabha 34,meowfy,auto,100.0,DD Swayam Prabha 34,jiotv.com,3129
+yes,DDSwayamPrabha35.in@jiotv,DD Swayam Prabha 35,meowfy,auto,100.0,DD Swayam Prabha 35,jiotv.com,3130
+yes,DDSwayamPrabha36.in@jiotv,DD Swayam Prabha 36,meowfy,auto,100.0,DD Swayam Prabha 36,jiotv.com,3131
+yes,DDSwayamPrabha37.in@jiotv,DD Swayam Prabha 37,meowfy,auto,100.0,DD Swayam Prabha 37,jiotv.com,3132
+yes,DDSwayamPrabha38.in@jiotv,DD Swayam Prabha 38,meowfy,auto,100.0,DD Swayam Prabha 38,jiotv.com,3133
+yes,DDSwayamPrabha39.in@jiotv,DD Swayam Prabha 39,meowfy,auto,100.0,DD Swayam Prabha 39,jiotv.com,3134
+yes,DDSwayamPrabha40.in@jiotv,DD Swayam Prabha 40,meowfy,auto,100.0,DD Swayam Prabha 40,jiotv.com,3135
+yes,DDUrdu.in@SD,DD urdu,meowfy,auto,100.0,DD Urdu,dishtv.in,142808
+yes,DDUrdu.in@SD,DD URDU [IN],sktech,auto,100.0,DD Urdu,dishtv.in,142808
+yes,DDUttarPradesh.in@SD,DD Uttar Pradesh,meowfy,auto,100.0,DD Uttar Pradesh,dishtv.in,142807
+review,DDUttarPradesh.in@SD,DD MP [IN],sktech,review,80.0,DD Uttar Pradesh,dishtv.in,142807
+yes,DDUttarPradesh.in@SD,DD UP [IN],sktech,auto,100.0,DD Uttar Pradesh,dishtv.in,142807
+yes,DDYadagiri.in@SD,DD Yadagiri,meowfy,auto,100.0,DD Yadagiri,dishtv.in,142810
+yes,DNN.in@jiotv,DNN,meowfy,auto,100.0,DNN,jiotv.com,958
+review,DTamil.in@SD,Discovery Tamil,meowfy,review,80.0,DTamil,dishtv.in,143012
+yes,DTamil.in@SD,D Tamil,meowfy,auto,100.0,DTamil,dishtv.in,143012
+yes,DW.de@English,dw,meowfy,auto,100.0,DW,tataplay.com,60
+yes,DY365.in@SD,DY 365,meowfy,auto,100.0,DY 365,dishtv.in,143015
+yes,Dabangg.in@jiotv,DABANGG [IN],sktech,auto,100.0,Dabangg,jiotv.com,532
+yes,DailyPostPHH.in@jiotv,Daily Post PHH,meowfy,auto,100.0,Daily Post PHH,jiotv.com,2916
+yes,Dangal2.in@SD,DANGAL 2 [IN],sktech,auto,100.0,Dangal 2,dishtv.in,142772
+yes,DangalTV.in@SD,DANGAL [IN],sktech,auto,100.0,Dangal TV,dishtv.in,142771
+yes,Darshan24.in@jiotv,Darshan 24,meowfy,auto,100.0,Darshan 24,jiotv.com,611
+yes,Darshan24.in@jiotv,DARSHAN 24 [IN],sktech,auto,100.0,Darshan 24,jiotv.com,611
+review,DesiChannel.in@jiotv,SIKH CHANNEL [IN-UK],sktech,likely,83.3,Desi Channel,jiotv.com,906
+yes,DesiMusicStation.in@jiotv,Desi Music Station,meowfy,auto,100.0,Desi Music Station,jiotv.com,2252
+yes,Dhamaal.in@jiotv,DHAMAAL [IN],sktech,auto,100.0,Dhamaal,jiotv.com,2038
+yes,DharmGranthTV.in@jiotv,Dharm Granth TV,meowfy,auto,100.0,Dharm Granth TV,jiotv.com,1549
+yes,DharmSandesh.in@SD,Dharma Sandesh,meowfy,auto,96.3,Dharm Sandesh,airtelxstream.in,LIVETV_LIVETVCHANNEL_DHARM_SANDESH
+yes,DhoomMusicBangla.in@jiotv,Dhoom Music Bangla,meowfy,auto,100.0,Dhoom Music Bangla,jiotv.com,3006
+yes,Digishala.in@jiotv,Digishala,meowfy,auto,100.0,Digishala,jiotv.com,1227
+yes,Discovery.in@jiotv,DISCOVERY FHD [BENGALI],sktech,auto,100.0,Discovery,jiotv.com,242
+yes,Discovery.in@jiotv,DISCOVERY [IN],sktech,auto,100.0,Discovery,jiotv.com,242
+review,DiscoveryKids.in@SD,Discovery Kids Hindi,meowfy,review,76.4,Discovery Kids,dishtv.in,159011
+review,DiscoveryKids.in@SD,Discovery HD Hindi,meowfy,review,82.8,Discovery Kids,dishtv.in,159011
+review,DiscoveryKids.in@SD,Discovery Hindi,meowfy,review,82.8,Discovery Kids,dishtv.in,159011
+review,DiscoveryKids.in@SD,DISCOVERY WORLD [BENGALI],sktech,review,75.9,Discovery Kids,dishtv.in,159011
+review,DiscoveryKids.in@SD,DISCOVERY WORLD FHD [IN],sktech,review,75.9,Discovery Kids,dishtv.in,159011
+review,DiscoveryKids.in@SD,DISCOVERY KIDS HINDI [IN],sktech,review,76.4,Discovery Kids,dishtv.in,159011
+review,DiscoveryScience.in@SD,Discovery Science Hindi,meowfy,review,79.0,Discovery Science,dishtv.in,159107
+review,DiscoveryScience.in@SD,DISCOVERY JEET FHD [IN],sktech,review,77.4,Discovery Science,dishtv.in,159107
+yes,DiscoveryScience.in@SD,DISCOVERY SCIENCE [IN],sktech,auto,100.0,Discovery Science,dishtv.in,159107
+yes,DiscoveryTurbo.in@SD,Discovery Turbo,meowfy,auto,100.0,Discovery Turbo,dishtv.in,159108
+yes,DisneyChannel.in@HD,Disney Channel,meowfy,auto,100.0,Disney Channel,dishtv.in,158843
+review,DisneyChannel.in@HD,Desi Channel,meowfy,review,76.9,Disney Channel,dishtv.in,158843
+yes,DisneyChannel.in@HD,DISNEY CHANNEL [IN],sktech,auto,100.0,Disney Channel,dishtv.in,158843
+yes,DisneyInternationalHD.in@SD,Disney International HD,meowfy,auto,100.0,Disney International HD,dishtv.in,142989
+yes,DisneyInternationalHD.in@SD,DISNEY SD [IN],sktech,auto,100.0,Disney International HD,dishtv.in,142989
+yes,DisneyJunior.in@SD,Disney Junior,meowfy,auto,100.0,Disney Junior,dishtv.in,142990
+yes,DisneyJunior.in@SD,DISNEY JUNIOR [IN],sktech,auto,100.0,Disney Junior,dishtv.in,142990
+yes,DivyalokTV.in@jiotv,Divyalok TV,meowfy,auto,100.0,Divyalok TV,jiotv.com,2322
+review,DivyavaniTV.in@SD,Divya Vani,meowfy,review,81.8,Divyavani TV,airtelxstream.in,LIVETV_LIVETVCHANNEL_DIVYAVANI_TV
+review,DivyavaniTV.in@SD,Divya TV,meowfy,review,80.0,Divyavani TV,airtelxstream.in,LIVETV_LIVETVCHANNEL_DIVYAVANI_TV
+review,DivyavaniTV.in@SD,DIVYA TV [IN],sktech,review,80.0,Divyavani TV,airtelxstream.in,LIVETV_LIVETVCHANNEL_DIVYAVANI_TV
+yes,E24.in@SD,E24 [IN],sktech,auto,100.0,E 24,airtelxstream.in,LIVETV_LIVETVCHANNEL_E24
+yes,ETNow.in@SD,ET Now,meowfy,auto,100.0,ET Now,dishtv.in,143021
+yes,ETNow.in@SD,ET NOW [IN],sktech,auto,100.0,ET Now,dishtv.in,143021
+yes,ETNowSwadesh.in@SD,ET Now Swadesh,meowfy,auto,100.0,ET Now Swadesh,dishtv.in,143022
+yes,ETVAbhiruchi.in@SD,ETV Abhiruchi,meowfy,auto,100.0,ETV Abhiruchi,dishtv.in,143023
+yes,ETVAndhraPradesh.in@SD,ETV Andhra pradesh,meowfy,auto,100.0,ETV Andhra Pradesh,dishtv.in,143024
+yes,ETVCinema.in,ETV Cinema HD,meowfy,auto,100.0,ETV Cinema,dishtv.in,143026
+review,ETVCinema.in,CINEMA TV [IN],sktech,review,75.8,ETV Cinema,dishtv.in,143026
+yes,ETVCinema.in,ETV CINEMA [IN],sktech,auto,100.0,ETV Cinema,dishtv.in,143026
+yes,ETVLife.in@SD,ETV Life,meowfy,auto,100.0,ETV Life,dishtv.in,143029
+yes,ETVPlus.in,ETV Plus HD,meowfy,auto,100.0,ETV Plus,dishtv.in,143030
+yes,ETVPlus.in,MTV PLUS FHD [IN],sktech,likely,87.5,ETV Plus,dishtv.in,143030
+yes,ETVTelangana.in@SD,ETV Telangana,meowfy,auto,100.0,ETV Telangana,dishtv.in,143032
+yes,ETVTelugu.in@HD,ETV HD,meowfy,auto,100.0,ETV Telugu,dishtv.in,143028
+yes,ETVTelugu.in@HD,ETV [IN-UK],sktech,auto,100.0,ETV Telugu,dishtv.in,143028
+yes,Enterr10.in@jiotv,ENTER 10 [BENGALI],sktech,auto,94.1,Enterr 10,jiotv.com,485
+yes,Enterr10.in@jiotv,ENTERR 10 [IN],sktech,auto,100.0,Enterr 10,jiotv.com,485
+review,EpicKids.in@SD,Gubbare,meowfy,review,80.0,Epic Kids,dishtv.in,159014
+review,EpicMusic.in@SD,SHOWBOX [IN],sktech,review,80.0,Epic Music,dishtv.in,159097
+yes,EpicTV.in@SD,EPIC TV,meowfy,auto,100.0,Epic TV,dishtv.in,159013
+yes,EpicTV.in@SD,EPIC HD [IN],sktech,auto,100.0,Epic TV,dishtv.in,159013
+yes,Eurosport.in@SD,Eurosport HD,meowfy,auto,100.0,Eurosport,dishtv.in,157802
+yes,Eurosport.in@SD,Eurosport,meowfy,auto,100.0,Eurosport,dishtv.in,157802
+yes,FMNews.in@SD,FM News,meowfy,auto,100.0,FM News,airtelxstream.in,LIVETV_LIVETVCHANNEL_FM_NEWS
+yes,FTVHD.in@jiotv,FTV HD,meowfy,auto,100.0,FTV HD,jiotv.com,1598
+yes,FashionIndia.in@jiotv,Fashion India,meowfy,auto,100.0,Fashion India,jiotv.com,2031
+yes,FatehTV.in@SD,Fateh TV,meowfy,auto,100.0,Fateh TV,tataplay.com,791
+review,FirstIndiaNews.in@SD,ATV India News,meowfy,review,80.0,First India News,tataplay.com,650
+yes,FirstIndiaNews.in@SD,First India News,meowfy,auto,100.0,First India News,tataplay.com,650
+yes,Firstpost.in@jiotv,Firstpost,meowfy,auto,100.0,Firstpost,jiotv.com,2326
+yes,FlowersTV.in@SD,Flower TV,meowfy,auto,94.7,Flowers TV,dishtv.in,143065
+yes,FoodFood.in@SD,Food Food,meowfy,auto,100.0,Food Food,tataplay.com,117
+yes,FoodFood.in@SD,FOOD FOOD HD [IN],sktech,auto,100.0,Food Food,tataplay.com,117
+yes,Foodxp.uk@SD,Foodxp,meowfy,auto,100.0,Foodxp,tataplay.com,1030
+yes,Foodxp.uk@SD,FOODXP [IN-UK],sktech,auto,100.0,Foodxp,tataplay.com,1030
+yes,France24.fr@English,France 24,meowfy,auto,100.0,France 24,dishtv.in,159111
+yes,GSTV.in@jiotv,GS TV,meowfy,auto,100.0,GS TV,jiotv.com,643
+review,GTCPunjabi.in@SD,Ghaint Punjab,meowfy,review,75.0,GTC Punjabi,dishtv.in,202704
+review,Gangaur.in@jiotv,GANGA [IN],sktech,likely,83.3,Gangaur,jiotv.com,2077
+yes,GarviGujarat.in@jiotv,Garvi Gujarat,meowfy,auto,100.0,Garvi Gujarat,jiotv.com,3039
+yes,GlobalIndia.in@jiotv,Global India,meowfy,auto,100.0,Global India,jiotv.com,1959
+review,GlobalPunjab.in@jiotv,GLOBAL PUNJAB TV [IN],sktech,likely,83.7,Global Punjab,jiotv.com,2019
+yes,Goldmines.in@SD,GOLDMINES [IN],sktech,auto,100.0,Goldmines,dishtv.in,143087
+yes,GoodNewsChannel.in@jiotv,GoodNews Channel,meowfy,auto,100.0,GoodNews Channel,jiotv.com,907
+yes,GoodNewsToday.in@SD,Good News Today,meowfy,auto,100.0,Good News Today,dishtv.in,143090
+yes,GoodnessTV.in@SD,Goodness,meowfy,auto,100.0,Goodness TV,dishtv.in,143091
+yes,GraceTV.in@jiotv,Grace TV,meowfy,auto,100.0,Grace TV,jiotv.com,2775
+yes,GreenChillies.in@jiotv,Green Chillies,meowfy,auto,100.0,Green Chillies,jiotv.com,1834
+yes,Gujarat1st24x7.in@jiotv,Gujarat 1st 24x7,meowfy,auto,100.0,Gujarat 1st 24x7,jiotv.com,1974
+yes,GulistanNews.in@SD,Gulistan News,meowfy,auto,100.0,Gulistan News,dishtv.in,143097
+yes,Gurkibani.in@jiotv,Gurkibani,meowfy,auto,100.0,Gurkibani,jiotv.com,1458
+yes,GustoTV.in@jiotv,Gusto TV,meowfy,auto,100.0,Gusto TV,jiotv.com,3213
+review,Gyandarshan.in@SD,DD Gyandarshan,meowfy,review,82.0,Gyandarshan,dishtv.in,143100
+yes,HMTV.in@SD,HM TV,meowfy,auto,100.0,HMTV,dishtv.in,143136
+review,HMTV.in@SD,OM TV,meowfy,review,80.0,HMTV,dishtv.in,143136
+yes,HNN24x7.in@SD,HNN 24x7,meowfy,auto,100.0,HNN 24x7,airtelxstream.in,LIVETV_LIVETVCHANNEL_HNN
+yes,HarKhabar.in@SD,Har Khabar,meowfy,auto,100.0,Har Khabar,airtelxstream.in,LIVETV_LIVETVCHANNEL_HARKHABAR
+yes,HareKrsnaPravachan.in@jiotv,Hare Krsna Pravachan,meowfy,auto,100.0,Hare Krsna Pravachan,jiotv.com,1212
+yes,HareKrsnaTV.in@SD,Hare krsna,meowfy,auto,100.0,Hare Krsna TV,dishtv.in,143102
+review,HareKrsnaTV.in@SD,Hare Krsna Music,meowfy,review,75.9,Hare Krsna TV,dishtv.in,143102
+yes,HareKrsnaTV.in@SD,HARE KRISHNA HD [IN],sktech,auto,90.9,Hare Krsna TV,dishtv.in,143102
+review,HarvestTV.in@SD,Harvest TV 24x7,meowfy,review,78.0,Harvest TV,airtelxstream.in,LIVETV_LIVETVCHANNEL_HARVEST_TV_24X7
+yes,HaryanaBeats.in@jiotv,HARYANVI BEATS [IN],sktech,likely,88.9,Haryana Beats,jiotv.com,1694
+yes,HiDost.in@jiotv,Hi Dost!,meowfy,auto,100.0,Hi Dost!,jiotv.com,1232
+yes,HindiKhabar.in@SD,Hindi Khabar,meowfy,auto,100.0,Hindi Khabar,airtelxstream.in,LIVETV_LIVETVCHANNEL_HINDI_KHABAR
+yes,HindiKhabar.in@SD,HINDI KHABAR [IN],sktech,auto,100.0,Hindi Khabar,airtelxstream.in,LIVETV_LIVETVCHANNEL_HINDI_KHABAR
+yes,HinduDharmam.in@SD,Hindu Dharmam,meowfy,auto,100.0,Hindu Dharmam,dishtv.in,143131
+yes,HistoryTV18.in@SD,History TV18 HD,meowfy,auto,100.0,History TV18,dishtv.in,143132
+yes,HistoryTV18.in@SD,History TV18,meowfy,auto,100.0,History TV18,dishtv.in,143132
+review,HistoryTV18.in@SD,HISTORY TV 18 FHD [IN],sktech,review,83.6,History TV18,dishtv.in,143132
+review,HistoryTV18.in@SD,HISTORY TV 18 HD [IN],sktech,review,83.6,History TV18,dishtv.in,143132
+yes,HistoryTV18HDHindi.in@jiotv,History TV18 HD Hindi,meowfy,auto,100.0,History TV18 HD Hindi,jiotv.com,578
+yes,HornbillTV.in@SD,Hornbill TV,meowfy,auto,100.0,Hornbill TV,airtelxstream.in,LIVETV_LIVETVCHANNEL_HORNBILL
+yes,HungamaTV.in@SD,Hungama,meowfy,auto,100.0,Hungama TV,dishtv.in,143150
+yes,IBC24.in@SD,IBC24,meowfy,auto,100.0,IBC 24,dishtv.in,143156
+yes,IBC24.in@SD,IBC 24 [IN],sktech,auto,100.0,IBC 24,dishtv.in,143156
+review,INH24x7.in@SD,India 24x7,meowfy,review,77.8,INH 24x7,airtelxstream.in,LIVETV_LIVETVCHANNEL_INH_24X7
+yes,INH24x7.in@SD,INH 24x7,meowfy,auto,100.0,INH 24x7,airtelxstream.in,LIVETV_LIVETVCHANNEL_INH_24X7
+yes,INH24x7.in@SD,INH 24X7 [IN],sktech,auto,100.0,INH 24x7,airtelxstream.in,LIVETV_LIVETVCHANNEL_INH_24X7
+yes,ISKCONBangalore.in@jiotv,ISKCON Bangalore,meowfy,auto,100.0,ISKCON Bangalore,jiotv.com,2784
+yes,Ind24.in@SD,IND 24,meowfy,auto,100.0,Ind 24,airtelxstream.in,LIVETV_LIVETVCHANNEL_IND24
+yes,Ind24.in@SD,ND 24,meowfy,auto,90.9,Ind 24,airtelxstream.in,LIVETV_LIVETVCHANNEL_IND24
+yes,Ind24.in@SD,IND 24 [IN],sktech,auto,100.0,Ind 24,airtelxstream.in,LIVETV_LIVETVCHANNEL_IND24
+yes,India24x7AapTakTV.in@jiotv,India 24x7 Aap Tak TV,meowfy,auto,100.0,India 24x7 Aap Tak TV,jiotv.com,3172
+yes,IndiaNews.in@SD,INDIA NEWS [IN],sktech,auto,100.0,India News,tataplay.com,183
+yes,IndiaNewsGujarati.in@SD,India News Gujarat,meowfy,auto,100.0,India News Gujarati,tataplay.com,654
+yes,IndiaNewsHaryana.in@SD,India News Haryana,meowfy,auto,100.0,India News Haryana,dishtv.in,143192
+yes,IndiaNewsHaryana.in@SD,INDIA NEWS HARYANA [IN],sktech,auto,100.0,India News Haryana,dishtv.in,143192
+yes,IndiaNewsPunjabHimachal.in@SD,India News Punjab,meowfy,auto,100.0,India News Punjab/Himachal,tataplay.com,366
+yes,IndiaNewsRajasthan.in@SD,India News Rajasthan,meowfy,auto,100.0,India News Rajasthan,tataplay.com,14
+yes,IndiaNewsRajasthan.in@SD,INDIA NEWS RAJASTHAN [IN],sktech,auto,100.0,India News Rajasthan,tataplay.com,14
+yes,IndiaNewsUttarPradesh.in@SD,India News MP,meowfy,likely,86.2,India News Uttar Pradesh,tataplay.com,30
+yes,IndiaNewsUttarPradesh.in@SD,India News UP,meowfy,auto,100.0,India News Uttar Pradesh,tataplay.com,30
+yes,IndiaNewsUttarPradesh.in@SD,INDIA NEWS UP [IN-UK],sktech,auto,100.0,India News Uttar Pradesh,tataplay.com,30
+yes,IndiaNewsUttarPradesh.in@SD,INDIA NEWS MP [IN],sktech,likely,86.2,India News Uttar Pradesh,tataplay.com,30
+yes,IndiaNewsUttarPradesh.in@SD,INDIA NEWS UP [IN],sktech,auto,100.0,India News Uttar Pradesh,tataplay.com,30
+yes,IndiaTV.in@SD,India TV,meowfy,auto,100.0,India TV,dishtv.in,143199
+yes,IndiaTV.in@SD,INDIA TV [IN],sktech,auto,100.0,India TV,dishtv.in,143199
+yes,IndiaTVAapKiAdalat.in@jiotv,India TV Aap Ki Adalat,meowfy,auto,100.0,India TV Aap Ki Adalat,jiotv.com,3025
+yes,IndiaTVSpeedNews.in@HD,India TV Speed News,meowfy,auto,100.0,India TV Speed News,airtelxstream.in,LIVETV_LIVETVCHANNEL_INDIA_TV_SPEED_NEWS
+yes,IndiaTVYogaChannel.in@jiotv,India TV Yoga Channel,meowfy,auto,100.0,India TV Yoga Channel,jiotv.com,3024
+yes,IndiaToday.in@SD,India Today,meowfy,auto,100.0,India Today,dishtv.in,143197
+review,IndiaVoice.in@SD,India Science,meowfy,review,75.0,India Voice,tataplay.com,685
+yes,IndiaVoice.in@SD,INDIA VOICE [IN],sktech,auto,100.0,India Voice,tataplay.com,685
+yes,Insync.in@jiotv,Insync,meowfy,auto,100.0,Insync,jiotv.com,1286
+review,InvestigationDiscovery.in@SD,Investigation Discovery HD Hindi,meowfy,review,82.5,Investigation Discovery,dishtv.in,157811
+review,InvestigationDiscovery.in@SD,Investigation Discovery Hindi,meowfy,review,82.5,Investigation Discovery,dishtv.in,157811
+yes,InvestigationDiscovery.in@SD,INVESTIGATION DISCOVERY [IN],sktech,auto,100.0,Investigation Discovery,dishtv.in,157811
+yes,IshwarBhaktiTV.in@SD,Ishwar TV,meowfy,auto,100.0,Ishwar Bhakti TV,dishtv.in,143213
+review,IshwarBhaktiTV.in@SD,Sidharth Bhakti,meowfy,review,78.6,Ishwar Bhakti TV,dishtv.in,143213
+yes,IshwarBhaktiTV.in@SD,ISHWAR TV HD [IN],sktech,auto,100.0,Ishwar Bhakti TV,dishtv.in,143213
+yes,IshwarVaniTv.in@jiotv,Ishwar Vani Tv,meowfy,auto,100.0,Ishwar Vani Tv,jiotv.com,3178
+yes,JK24x7News.in@SD,JK 24x7 News,meowfy,auto,100.0,JK 24x7 News,dishtv.in,143237
+review,JK24x7News.in@SD,Khabar 24x7 News,meowfy,review,78.6,JK 24x7 News,dishtv.in,143237
+yes,JMovie.in@SD,J Movies,meowfy,auto,100.0,J Movie,dishtv.in,143215
+yes,JUSOne.in@jiotv,JUS One HD,meowfy,likely,86.3,JUSOne,jiotv.com,961
+yes,JaihindTV.in@SD,Jaihind tv,meowfy,auto,100.0,Jaihind TV,dishtv.in,143217
+yes,JaihindTV.in@SD,JAIHIND TV [IN],sktech,auto,100.0,Jaihind TV,dishtv.in,143217
+yes,JalshaMovies.in@SD,Jalsha Movies HD,meowfy,auto,100.0,Jalsha Movies,dishtv.in,143218
+yes,JalshaMovies.in@SD,Jalsha Movies,meowfy,auto,100.0,Jalsha Movies,dishtv.in,143218
+yes,JanTV.in@SD,Jan TV,meowfy,auto,100.0,Jan TV,airtelxstream.in,LIVETV_LIVETVCHANNEL_JAN_TV
+yes,JanamTV.in@SD,Janam TV,meowfy,auto,100.0,Janam TV,dishtv.in,143221
+yes,JantaTV.in@SD,Janta TV,meowfy,auto,100.0,Janta TV,airtelxstream.in,LIVETV_LIVETVCHANNEL_JANTA_TV
+yes,JantaTV.in@SD,JANTA TV [IN],sktech,auto,100.0,Janta TV,airtelxstream.in,LIVETV_LIVETVCHANNEL_JANTA_TV
+review,JantantraTV.in@SD,Jantantra,meowfy,review,79.7,Jantantra TV,tataplay.com,701
+yes,JayJagannath.in@jiotv,Jay Jagannath,meowfy,auto,100.0,Jay Jagannath,jiotv.com,3115
+yes,JayaMax.in@SD,Jaya Max,meowfy,auto,100.0,Jaya Max,dishtv.in,143226
+yes,JayaMax.in@SD,JAYA MAX [IN-UK],sktech,auto,100.0,Jaya Max,dishtv.in,143226
+yes,JayaPlus.in@SD,Jaya Plus,meowfy,auto,100.0,Jaya Plus,dishtv.in,143227
+yes,JayaTV.in@HD,Jaya TV HD,meowfy,auto,100.0,Jaya TV,dishtv.in,143228
+yes,JayaTV.in@HD,JAYA TV [IN],sktech,auto,100.0,Jaya TV,dishtv.in,143228
+yes,JeevanTV.in@SD,Jeevan TV,meowfy,auto,100.0,Jeevan TV,tataplay.com,372
+yes,JeevanTV.in@SD,JEEVAN TV [IN],sktech,auto,100.0,Jeevan TV,tataplay.com,372
+yes,JeewanBhakti.in@jiotv,Jeewan Bhakti,meowfy,auto,100.0,Jeewan Bhakti,jiotv.com,2947
+review,JinvaniChannel.in@SD,Jinvani TV,meowfy,review,76.4,Jinvani Channel,dishtv.in,143230
+yes,JioEventsHD.in@jiotv,Jio Events HD,meowfy,auto,100.0,Jio Events HD,jiotv.com,871
+yes,JioExclusiveHD.in@jiotv,Jio Exclusive HD,meowfy,auto,100.0,Jio Exclusive HD,jiotv.com,866
+yes,JioExclusiveHD.in@jiotv,JIO EXCLUSIVE FHD [IN],sktech,auto,100.0,Jio Exclusive HD,jiotv.com,866
+yes,JioGamesHD.in@jiotv,JioGames HD,meowfy,auto,100.0,JioGames HD,jiotv.com,1163
+yes,JioSpecialsHD.in@jiotv,Jio Specials HD,meowfy,auto,100.0,Jio Specials HD,jiotv.com,2230
+yes,Jonack.in@SD,Jonack,meowfy,auto,100.0,Jonack,dishtv.in,143238
+yes,JothiTV.in@SD,Jothi TV,meowfy,auto,100.0,Jothi TV,dishtv.in,143239
+yes,KCM.in@jiotv,KCM,meowfy,auto,100.0,KCM,jiotv.com,2854
+yes,KITEVICTERS.in@jiotv,KITE VICTERS,meowfy,auto,100.0,KITE VICTERS,jiotv.com,1429
+review,KNewsIndia.in@SD,ABP News India,meowfy,review,81.5,K News India,dishtv.in,143244
+review,KNewsIndia.in@SD,Apex News India,meowfy,review,78.5,K News India,dishtv.in,143244
+yes,KNewsIndia.in@SD,K News India,meowfy,auto,100.0,K News India,dishtv.in,143244
+yes,KNewsIndia.in@SD,KNEWS INDIA [IN],sktech,likely,89.7,K News India,dishtv.in,143244
+yes,KTV.in@SD,KTV FHD [IN],sktech,auto,100.0,KTV,dishtv.in,143274
+yes,KTV.in@SD,KTV [IN-UK],sktech,auto,100.0,KTV,dishtv.in,143274
+yes,KairaliNews.in@SD,Kairali News,meowfy,auto,100.0,Kairali News,dishtv.in,143246
+yes,KairaliTV.in@SD,Kairali TV,meowfy,auto,100.0,Kairali TV,dishtv.in,143247
+review,KairaliTV.in@SD,Kairali WE TV,meowfy,review,81.0,Kairali TV,dishtv.in,143247
+yes,KairaliTV.in@SD,KAIRALI TV [IN],sktech,auto,100.0,Kairali TV,dishtv.in,143247
+yes,KairaliWe.in@SD,WE TV [IN],sktech,auto,100.0,Kairali We,dishtv.in,143248
+yes,KalaignarSeithigal.in@SD,Kalaignar Seithigal,meowfy,auto,100.0,Kalaignar Seithigal,dishtv.in,143769
+yes,KalaignarTV.in@SD,Kalaignar TV,meowfy,auto,100.0,Kalaignar TV,dishtv.in,143249
+yes,KalaignarTV.in@SD,KALAIGNAR TV [IN],sktech,auto,100.0,Kalaignar TV,dishtv.in,143249
+yes,KalingaTV.in@SD,Kalinga TV,meowfy,auto,100.0,Kalinga TV,dishtv.in,143250
+yes,KanakNews.in@SD,Kanak News,meowfy,auto,100.0,Kanak News,dishtv.in,143252
+yes,KappaTV.in@SD,Kappa TV,meowfy,auto,100.0,Kappa TV,tataplay.com,377
+review,KappaTV.in@SD,Kripa TV,meowfy,review,75.0,Kappa TV,tataplay.com,377
+yes,KashishNews.in@SD,Kashish News,meowfy,auto,100.0,Kashish News,tataplay.com,838
+yes,KaumudyTV.in@SD,Kaumudy TV,meowfy,auto,100.0,Kaumudy TV,dishtv.in,143259
+yes,Khabar70.in@jiotv,Khabar 70,meowfy,auto,100.0,Khabar 70,jiotv.com,3171
+yes,KhabarFast.in@SD,Khabar Fast,meowfy,auto,100.0,Khabar Fast,airtelxstream.in,LIVETV_LIVETVCHANNEL_KHABAR_FAST
+yes,KolkataTV.in@SD,Kolkata TV,meowfy,auto,100.0,Kolkata TV,dishtv.in,143271
+yes,KrishnaVani.in@jiotv,KRISHNA VANI HD [IN],sktech,auto,100.0,Krishna Vani,jiotv.com,1440
+review,KushiTV.in@SD,KANSHI TV [IN-UK],sktech,review,82.4,Kushi TV,dishtv.in,143275
+yes,LancsTVHD.in@jiotv,Lancs TV HD,meowfy,auto,100.0,Lancs TV HD,jiotv.com,3011
+yes,LiveTimes.in@jiotv,Live Times,meowfy,auto,100.0,Live Times,jiotv.com,3166
+yes,LokmanchMarathi.in@jiotv,Lok manch Marathi,meowfy,auto,100.0,Lok manch Marathi,jiotv.com,3167
+yes,LokshahiNews.in@SD,Lokshahi News,meowfy,auto,100.0,Lokshahi News,dishtv.in,143284
+yes,MBC.in@jiotv,MBC,meowfy,auto,100.0,MBC,jiotv.com,631
+yes,MBCTV.in@SD,SMBC TV,meowfy,auto,92.3,MBC TV,dishtv.in,135691
+yes,MKSix.in@jiotv,MK Six,meowfy,auto,100.0,MK Six,jiotv.com,1647
+yes,MNX.in@SD,MNX FHD [IN],sktech,auto,100.0,MNX,dishtv.in,143549
+yes,MNadu.in@jiotv,M Nadu,meowfy,auto,100.0,M Nadu,jiotv.com,2434
+yes,MTV.in@SD,MTV HD,meowfy,auto,100.0,MTV,dishtv.in,143558
+yes,MTV.in@SD,MTV,meowfy,auto,100.0,MTV,dishtv.in,143558
+yes,MTV.in@SD,MTV HD [IN],sktech,auto,100.0,MTV,dishtv.in,143558
+yes,MTV.in@SD,MTV FHD [IN],sktech,auto,100.0,MTV,dishtv.in,143558
+yes,MTVBeatsHD.in@jiotv,MTV BEATS FHD [IN],sktech,auto,100.0,MTV Beats HD,jiotv.com,753
+yes,MTVBeatsHD.in@jiotv,MTV BEATS HD [IN],sktech,auto,100.0,MTV Beats HD,jiotv.com,753
+review,MTVHDPlus.in@jiotv,MN PLUS FHD [IN],sktech,likely,80.0,MTV HD Plus,jiotv.com,1145
+yes,MadhaTV.in@SD,Madha TV,meowfy,auto,100.0,Madha TV,dishtv.in,143287
+review,MadhaTV.in@SD,Madhimugam TV,meowfy,review,76.2,Madha TV,dishtv.in,143287
+yes,MakkalTV.in@SD,Makkal TV,meowfy,auto,100.0,Makkal TV,dishtv.in,143296
+yes,MakkalTV.in@SD,MAKKAL TV [IN],sktech,auto,100.0,Makkal TV,dishtv.in,143296
+yes,MalyalamNaaptol.in@jiotv,Malyalam Naaptol,meowfy,auto,100.0,Malyalam Naaptol,jiotv.com,3174
+yes,ManavDharam.in@jiotv,Manav Dharam,meowfy,auto,100.0,Manav Dharam,jiotv.com,1607
+review,ManoramaNews.in@SD,Mahaa News,meowfy,review,78.3,Manorama News,dishtv.in,159016
+yes,ManoramaNews.in@SD,Manorama News,meowfy,auto,100.0,Manorama News,dishtv.in,159016
+review,ManoramaNews.in@SD,Mantavya News,meowfy,review,76.9,Manorama News,dishtv.in,159016
+yes,ManoranjanGrand.in@SD,MANORANJAN GRAND [IN],sktech,auto,100.0,Manoranjan Grand,dishtv.in,143302
+review,ManoranjanTV.in@SD,MANORANJAN [IN],sktech,review,81.0,Manoranjan TV,dishtv.in,143304
+yes,Mastiii.in@jiotv,MASTII [IN],sktech,auto,92.3,Mastiii,jiotv.com,584
+yes,MathrubhumiNews.in@SD,Mathrubhumi News,meowfy,auto,100.0,Mathrubhumi News,dishtv.in,143309
+yes,MazhavilManorama.in@SD,Mazhavil Manorama,meowfy,auto,100.0,Mazhavil Manorama,dishtv.in,143310
+yes,Media9.in@jiotv,Media9,meowfy,auto,100.0,Media9,jiotv.com,2254
+review,MediaOne.in@SD,Media One TV,meowfy,review,79.7,Media One,dishtv.in,143345
+yes,MerchantRecords.in@jiotv,Merchant Records,meowfy,auto,100.0,Merchant Records,jiotv.com,2064
+yes,MercyTV.in@jiotv,Mercy TV,meowfy,auto,100.0,Mercy TV,jiotv.com,924
+yes,Mh1Music.in@SD,mh1 (Music),meowfy,auto,100.0,Mh 1 Music,dishtv.in,143539
+review,Mh1News.in@SD,Mh One News,meowfy,review,78.0,Mh 1 News,dishtv.in,143540
+yes,Mh1News.in@SD,MH1 NEWS [IN],sktech,auto,100.0,Mh 1 News,dishtv.in,143540
+yes,MirrorNow.in@SD,Mirror Now,meowfy,auto,100.0,Mirror Now,dishtv.in,143543
+yes,MirrorNow.in@SD,MIRROR NOW [IN],sktech,auto,100.0,Mirror Now,dishtv.in,143543
+yes,MoonTV.in@jiotv,Moon TV,meowfy,auto,100.0,Moon TV,jiotv.com,1518
+yes,MoviesNowPlus.in@SD,MOVIES NOW FHD [IN],sktech,auto,100.0,Movies Now +,dishtv.in,143548
+yes,MusicIndia.in@SD,Music India,meowfy,auto,100.0,Music India,dishtv.in,143563
+yes,MusicIndia.in@SD,MUSIC INDIA [IN],sktech,auto,100.0,Music India,dishtv.in,143563
+yes,NDTV24x7.in@SD,NDTV 24x7,meowfy,auto,100.0,NDTV 24x7,dishtv.in,154895
+yes,NDTV24x7.in@SD,NDTV 24x7 [IN-UK],sktech,auto,100.0,NDTV 24x7,dishtv.in,154895
+yes,NDTV24x7.in@SD,NDTV 24x7 [IN],sktech,auto,100.0,NDTV 24x7,dishtv.in,154895
+yes,NDTVGoodTimes.in@SD,GOOD TiMES,meowfy,auto,100.0,NDTV Good Times,airtelxstream.in,LIVETV_LIVETVCHANNEL_GOOD_TIMES
+yes,NDTVGoodTimes.in@SD,NDTV GOOD TIMES [IN],sktech,auto,100.0,NDTV Good Times,airtelxstream.in,LIVETV_LIVETVCHANNEL_GOOD_TIMES
+yes,NDTVIndia.in@SD,NDTV India,meowfy,auto,100.0,NDTV India,dishtv.in,157588
+yes,NDTVIndia.in@SD,NDTV INDIA [IN],sktech,auto,100.0,NDTV India,dishtv.in,157588
+yes,NDTVProfit.in@SD,NDTV Profit,meowfy,auto,100.0,NDTV Profit,airtelxstream.in,LIVETV_LIVETVCHANNEL_NDTV_PROFIT_PRIME
+yes,NDTVProfit.in@SD,NDTV PROFIT [IN],sktech,auto,100.0,NDTV Profit,airtelxstream.in,LIVETV_LIVETVCHANNEL_NDTV_PROFIT_PRIME
+yes,NENews.in@SD,AOne News,meowfy,likely,87.5,NE News,dishtv.in,158851
+review,NENews.in@SD,Euro News,meowfy,review,75.0,NE News,dishtv.in,158851
+review,NENews.in@SD,MKN News,meowfy,review,80.0,NE News,dishtv.in,158851
+yes,NENews.in@SD,NE News,meowfy,auto,100.0,NE News,dishtv.in,158851
+yes,NHKWorldJapan.jp@SD,NHK World Japan,meowfy,auto,100.0,NHK World-Japan,tataplay.com,976
+yes,NKTVBangla.in@jiotv,NK TV Bangla,meowfy,auto,100.0,NK TV Bangla,jiotv.com,2933
+yes,NKTVPlus.in@jiotv,NK TV Plus,meowfy,auto,100.0,NK TV Plus,jiotv.com,1757
+yes,NTVTelugu.in@SD,NTV,meowfy,auto,100.0,NTV Telugu,dishtv.in,154897
+yes,NaaptolTamil.in@SD,Tamil Naaptol,meowfy,auto,100.0,Naaptol Tamil,airtelxstream.in,LIVETV_LIVETVCHANNEL_TAMIL_NAAPTOL
+review,NambikkaiTV.in@SD,Nambikkai,meowfy,review,79.7,Nambikkai TV,dishtv.in,143567
+review,NandighoshaTV.in@SD,Nandighosha,meowfy,review,82.0,Nandighosha TV,tataplay.com,805
+yes,Narikaa.in@jiotv,Narikaa,meowfy,auto,100.0,Narikaa,jiotv.com,2352
+yes,NationKhabar.in@jiotv,Nation Khabar,meowfy,auto,100.0,Nation Khabar,jiotv.com,3203
+yes,NationalGeographic.in@SD,National Geographic HD,meowfy,auto,100.0,National Geographic,dishtv.in,143573
+yes,NationalGeographic.in@SD,National Geographic,meowfy,auto,100.0,National Geographic,dishtv.in,143573
+yes,NationalGeographicWild.in@SD,Nat Geo Wild HD,meowfy,auto,100.0,National Geographic Wild,dishtv.in,143571
+yes,NationalGeographicWild.in@SD,Nat Geo Wild,meowfy,auto,100.0,National Geographic Wild,dishtv.in,143571
+yes,NationalGeographicWild.in@SD,NAT GEO WILD FHD [IN],sktech,auto,100.0,National Geographic Wild,dishtv.in,143571
+yes,NavsarjanSanskrutiNews.in@jiotv,Navsarjan Sanskruti News,meowfy,auto,100.0,Navsarjan Sanskruti News,jiotv.com,3064
+yes,NaxatraNewsHindi.in@jiotv,Naxatra News Hindi,meowfy,auto,100.0,Naxatra News Hindi,jiotv.com,3086
+yes,Nepalone.in@jiotv,Nepal one,meowfy,auto,100.0,Nepal one,jiotv.com,719
+yes,Network10.in@SD,Network 10,meowfy,auto,100.0,Network 10,dishtv.in,143585
+review,News11.in@SD,News11 Bharat,meowfy,review,84.4,News 11,tataplay.com,415
+yes,News11.in@SD,NEWS 11 BHARAT [IN],sktech,auto,100.0,News 11,tataplay.com,415
+yes,News11.in@jiotv,News11,meowfy,auto,100.0,News11,jiotv.com,882
+yes,News18Assam.in@jiotv,News 18 Assam,meowfy,auto,100.0,News 18 Assam,jiotv.com,627
+yes,News18Bangla.in@SD,News18 Bangla,meowfy,auto,100.0,News18 Bangla,dishtv.in,143607
+yes,News18Bangla.in@SD,NEWS18 BANGLA [BENGALI],sktech,auto,100.0,News18 Bangla,dishtv.in,143607
+yes,News18BiharJharkhand.in@SD,news18 Bihar Jharkhand,meowfy,auto,100.0,News18 Bihar Jharkhand,dishtv.in,143608
+yes,News18Gujarati.in@SD,News18 Gujarati,meowfy,auto,100.0,News18 Gujarati,dishtv.in,143609
+review,News18India.in@SD,News 18 India,meowfy,review,83.6,News18 India,dishtv.in,143610
+review,News18India.in@SD,NEWS 18 INDIA [IN],sktech,review,83.6,News18 India,dishtv.in,143610
+yes,News18JKLH.in@SD,News18 JKLH,meowfy,auto,100.0,News18 JKLH,airtelxstream.in,LIVETV_LIVETVCHANNEL_NEWS18_JK_HIMACHAL
+yes,News18Kannada.in@SD,News18 Kannada,meowfy,auto,100.0,News18 Kannada,dishtv.in,143612
+yes,News18Kerala.in@SD,News18 Kerala,meowfy,auto,100.0,News18 Kerala,dishtv.in,143613
+yes,News18Marathi.in@SD,News18 Marathi,meowfy,auto,100.0,News18 Marathi,dishtv.in,143614
+yes,News18Odia.in@SD,News18 Oriya,meowfy,likely,87.0,News18 Odia,dishtv.in,143616
+yes,News18PunjabHaryanaHimachal.in@SD,News18 Punjab Haryana,meowfy,auto,100.0,News18 Punjab/Haryana/Himachal,dishtv.in,143617
+yes,News18Rajasthan.in@SD,News18 Rajasthan,meowfy,auto,100.0,News18 Rajasthan,dishtv.in,143618
+yes,News18Rajasthan.in@SD,NEWS 18 RAJASTHAN [IN],sktech,likely,86.1,News18 Rajasthan,dishtv.in,143618
+yes,News18TamilNadu.in@SD,News18 Tamil nadu,meowfy,auto,100.0,News18 Tamil Nadu,dishtv.in,143619
+yes,News1India.in@SD,News 1 India,meowfy,auto,100.0,News 1 India,airtelxstream.in,LIVETV_LIVETVCHANNEL_NEWS_1_INDIA
+yes,News1India.in@SD,NEWS 1 INDIA [IN],sktech,auto,100.0,News 1 India,airtelxstream.in,LIVETV_LIVETVCHANNEL_NEWS_1_INDIA
+review,News24.in@SD,E NEWS 24 [IN],sktech,review,81.5,News 24,dishtv.in,90009
+yes,News24.in@SD,NEWS 24 [IN],sktech,auto,100.0,News 24,dishtv.in,90009
+review,News24MPChhattisgarh.in@SD,NEWS 24 MPCG,meowfy,review,82.7,News 24 MP & Chhattisgarh,airtelxstream.in,LIVETV_LIVETVCHANNEL_NEWS24_MPCG
+yes,News24Tass.in@jiotv,News 24 Tass,meowfy,auto,100.0,News 24 Tass,jiotv.com,3170
+yes,News360.in@jiotv,News 360,meowfy,auto,100.0,News 360,jiotv.com,3018
+yes,News7Tamil.in@SD,News7 Tamil,meowfy,auto,100.0,News 7 Tamil,dishtv.in,143578
+yes,NewsCapitalGujarat.in@jiotv,News Capital Gujarat,meowfy,auto,100.0,News Capital Gujarat,jiotv.com,3058
+yes,NewsFirst.in@jiotv,News First,meowfy,auto,100.0,News First,jiotv.com,1555
+yes,NewsFlash.in@jiotv,News Flash,meowfy,auto,100.0,News Flash,jiotv.com,1896
+yes,NewsIndia24x7.in@SD,News India 24x7,meowfy,auto,100.0,News India 24x7,dishtv.in,143593
+yes,NewsJ.in@SD,News J,meowfy,auto,100.0,News J,airtelxstream.in,LIVETV_LIVETVCHANNEL_NEWS_J
+yes,NewsLive.in@SD,NEWS LIVE [BENGALI],sktech,auto,100.0,News Live,dishtv.in,143595
+yes,NewsNation.in@SD,News Nation,meowfy,auto,100.0,News Nation,dishtv.in,143596
+yes,NewsNation.in@SD,NEWS NATION [IN],sktech,auto,100.0,News Nation,dishtv.in,143596
+yes,NewsNation81.in@jiotv,News Nation 81,meowfy,auto,100.0,News Nation 81,jiotv.com,3181
+yes,NewsOnly.in@jiotv,News Only,meowfy,auto,100.0,News Only,jiotv.com,1457
+yes,NewsStateBiharJharkhand.in@jiotv,News State Bihar Jharkhand,meowfy,auto,100.0,News State Bihar Jharkhand,jiotv.com,2764
+yes,NewsStateMPCHG.in@SD,News State MPCG,meowfy,likely,85.6,News State MP & CHG,airtelxstream.in,LIVETV_LIVETVCHANNEL_NEWS_STATE_MADHYA_PRADESH_CHHATTISGARH
+review,NewsStateMPCHG.in@SD,ZEE NEWS MP & CH [IN],sktech,review,75.9,News State MP & CHG,airtelxstream.in,LIVETV_LIVETVCHANNEL_NEWS_STATE_MADHYA_PRADESH_CHHATTISGARH
+yes,NewsStatePunjabHaryanaHimachal.in@SD,News State Punjab Haryana Himachal,meowfy,auto,100.0,News State Punjab Haryana Himachal,dishtv.in,169169
+yes,NewsStateUPUK.in@SD,News State UK UP,meowfy,auto,100.0,News State UP & UK,dishtv.in,143601
+yes,NewsStateUPUK.in@SD,NEWS STATE UP UK [IN],sktech,auto,100.0,News State UP & UK,dishtv.in,143601
+review,NewsStateUPUK.in@SD,NEWS STATE [IN],sktech,review,81.0,News State UP & UK,dishtv.in,143601
+yes,NewsTamil24x7.in@SD,News Tamil 24x7,meowfy,auto,100.0,News Tamil 24x7,dishtv.in,143623
+review,NewsTamil24x7.in@SD,News 24x7,meowfy,review,78.3,News Tamil 24x7,dishtv.in,143623
+review,NewsTamil24x7.in@SD,News_Plus_24x7,meowfy,review,75.9,News Tamil 24x7,dishtv.in,143623
+yes,NewsTimeBangla.in@SD,Newslive Bangla,meowfy,likely,86.7,NewsTime Bangla,dishtv.in,143602
+yes,NewsTimeTV.in@jiotv,News Time TV,meowfy,auto,100.0,News Time TV,jiotv.com,687
+review,NewsX.in@SD,NEWS X [IN],sktech,review,84.9,NewsX,dishtv.in,143624
+yes,NewsXWorld.in@HD,News X World,meowfy,likely,86.2,NewsX World,tataplay.com,1487
+yes,Newslive.in@jiotv,Newslive,meowfy,auto,100.0,Newslive,jiotv.com,613
+yes,NickHindi.in@jiotv,Nick Hindi,meowfy,auto,100.0,Nick Hindi,jiotv.com,545
+yes,NickHindi.in@jiotv,NICK HINDI [IN],sktech,auto,100.0,Nick Hindi,jiotv.com,545
+review,NickHindi.in@jiotv,NICK JR HINDI [IN],sktech,likely,81.0,Nick Hindi,jiotv.com,545
+yes,NickJr.in@SD,Nick Junior,meowfy,auto,100.0,Nick Jr.,dishtv.in,157820
+yes,Nickelodeon.in@SD,Nick HD+,meowfy,auto,100.0,Nickelodeon,dishtv.in,143625
+yes,Nickelodeon.in@SD,NICK+ FHD [IN],sktech,auto,100.0,Nickelodeon,dishtv.in,143625
+yes,NortheastLive.in@HD,North East Live,meowfy,auto,100.0,Northeast Live,dishtv.in,143633
+yes,OdishaTV.in@SD,Disha tv,meowfy,auto,94.1,Odisha TV,dishtv.in,143639
+yes,OdishaTV.in@SD,Odisha TV,meowfy,auto,100.0,Odisha TV,dishtv.in,143639
+yes,OmShanti.in@jiotv,OM SHANTI FHD [IN],sktech,auto,100.0,Om Shanti,jiotv.com,964
+yes,OnlyMusic.in@jiotv,Only Music,meowfy,auto,100.0,Only Music,jiotv.com,903
+yes,OyeMusic.in@jiotv,Oye Music,meowfy,auto,100.0,Oye Music,jiotv.com,2936
+yes,PMCHindi.in@jiotv,PMC Hindi,meowfy,auto,100.0,PMC Hindi,jiotv.com,1967
+yes,PMeVidya01.in@jiotv,PM e Vidya 01,meowfy,auto,100.0,PM e Vidya 01,jiotv.com,400
+yes,PMeVidya02.in@jiotv,PM e Vidya 02,meowfy,auto,100.0,PM e Vidya 02,jiotv.com,402
+yes,PMeVidya03.in@jiotv,PM e Vidya 03,meowfy,auto,100.0,PM e Vidya 03,jiotv.com,405
+yes,PMeVidya04.in@jiotv,PM e Vidya 04,meowfy,auto,100.0,PM e Vidya 04,jiotv.com,406
+yes,PMeVidya05.in@jiotv,PM e Vidya 05,meowfy,auto,100.0,PM e Vidya 05,jiotv.com,407
+yes,PMeVidya06.in@jiotv,PM e Vidya 06,meowfy,auto,100.0,PM e Vidya 06,jiotv.com,408
+yes,PMeVidya07.in@jiotv,PM e Vidya 07,meowfy,auto,100.0,PM e Vidya 07,jiotv.com,404
+yes,PMeVidya08.in@jiotv,PM e Vidya 08,meowfy,auto,100.0,PM e Vidya 08,jiotv.com,409
+yes,PMeVidya09.in@jiotv,PM e Vidya 09,meowfy,auto,100.0,PM e Vidya 09,jiotv.com,410
+yes,PMeVidya10.in@jiotv,PM e Vidya 10,meowfy,auto,100.0,PM e Vidya 10,jiotv.com,411
+yes,PMeVidya11.in@jiotv,PM e Vidya 11,meowfy,auto,100.0,PM e Vidya 11,jiotv.com,1410
+yes,PMeVidya12.in@jiotv,PM e Vidya 12,meowfy,auto,100.0,PM e Vidya 12,jiotv.com,1532
+yes,PTCChakde.in@SD,PTC Chak De,meowfy,auto,100.0,PTC Chakde,dishtv.in,143681
+yes,PTCMusic.in@SD,PTC Music,meowfy,auto,100.0,PTC Music,dishtv.in,143682
+yes,PTCNews.in@SD,PTC News,meowfy,auto,100.0,PTC News,dishtv.in,143683
+yes,PTCPunjabi.in@SD,PTC Punjabi,meowfy,auto,100.0,PTC Punjabi,dishtv.in,159123
+yes,PTCPunjabi.in@SD,PTC PUNJABI [IN-UK],sktech,auto,100.0,PTC Punjabi,dishtv.in,159123
+yes,PTCPunjabiGold.in@SD,PTC Punjabi Gold,meowfy,auto,100.0,PTC Punjabi Gold,dishtv.in,143684
+yes,PTCSimran.in@SD,PTC Simran,meowfy,auto,100.0,PTC Simran,dishtv.in,143685
+yes,PTCVR.in@jiotv,PTC VR,meowfy,auto,100.0,PTC VR,jiotv.com,1230
+yes,PasandTV.in@SD,Pasand,meowfy,auto,100.0,Pasand TV,dishtv.in,143643
+yes,PasandTV.in@SD,PASAND [IN],sktech,auto,100.0,Pasand TV,dishtv.in,143643
+yes,PeaceofMindTV.in@SD,PEACE OF MIND [IN],sktech,auto,100.0,Peace of Mind TV,dishtv.in,143646
+review,PearTV.in@SD,Paras tv,meowfy,review,80.0,Pear TV,tataplay.com,1352
+review,PearTV.in@SD,PARAS TV [IN],sktech,review,80.0,Pear TV,tataplay.com,1352
+yes,Pitaara.in@SD,Pitaara,meowfy,auto,100.0,Pitaara,dishtv.in,143650
+yes,Pitaara.in@SD,PITAARA (BK) [IN-UK],sktech,auto,100.0,Pitaara,dishtv.in,143650
+yes,Pitaara.in@SD,PITAARA [IN-UK],sktech,auto,100.0,Pitaara,dishtv.in,143650
+yes,PogoHindi.in@jiotv,Pogo Hindi,meowfy,auto,100.0,Pogo Hindi,jiotv.com,559
+yes,PolimerNews.in@SD,Polimer News,meowfy,auto,100.0,Polimer News,dishtv.in,143664
+review,PolimerNews.in@SD,Prime News,meowfy,review,81.8,Polimer News,dishtv.in,143664
+yes,PolimerTV.in@SD,Polimer TV,meowfy,auto,100.0,Polimer TV,dishtv.in,143665
+yes,PolimerTV.in@SD,POLIMER TV [IN],sktech,auto,100.0,Polimer TV,dishtv.in,143665
+yes,PowerKidsTV.in@jiotv,Power Kids TV,meowfy,auto,100.0,Power Kids TV,jiotv.com,2774
+yes,PowerTV.in@SD,Power TV,meowfy,auto,100.0,Power TV,dishtv.in,143669
+yes,PowervisionTV.in@SD,Powervision TV,meowfy,auto,100.0,Powervision TV,dishtv.in,143670
+yes,PrabhuSandesh.in@jiotv,Prabhu Sandesh,meowfy,auto,100.0,Prabhu Sandesh,jiotv.com,3187
+yes,PrabhuVaniTv.in@jiotv,Prabhu Vani Tv,meowfy,auto,100.0,Prabhu Vani Tv,jiotv.com,3162
+yes,PragNews.in@SD,PR News,meowfy,likely,87.5,Prag News,dishtv.in,143671
+yes,PragNews.in@SD,Prag News,meowfy,auto,100.0,Prag News,dishtv.in,143671
+yes,PrameyaNews7.in@jiotv,Prameya News 7,meowfy,auto,100.0,Prameya News 7,jiotv.com,779
+yes,PrarthanaBhawanTV.in@SD,Prarthana Bhawan,meowfy,auto,100.0,Prarthana Bhawan TV,airtelxstream.in,LIVETV_LIVETVCHANNEL_PRARTHANA_BHAWAN
+yes,PrarthanaBhawanTV.in@SD,PRARTHANA BHAWAN [IN],sktech,auto,100.0,Prarthana Bhawan TV,airtelxstream.in,LIVETV_LIVETVCHANNEL_PRARTHANA_BHAWAN
+yes,PratidinTime.in@SD,Pratidin Time,meowfy,auto,100.0,Pratidin Time,dishtv.in,143674
+yes,PravahPicture.in@SD,Star Pravah Picture HD,meowfy,auto,100.0,Pravah Picture,dishtv.in,143675
+yes,PravahPicture.in@SD,Star Pravah Picture,meowfy,auto,100.0,Pravah Picture,dishtv.in,143675
+yes,Prime9News.in@SD,Prime 9 News,meowfy,likely,86.2,Prime9 News,airtelxstream.in,LIVETV_LIVETVCHANNEL_CHANNEL_36_UP_UK
+yes,PrimeAsiaTV.ca@SD,Prime Asia HD,meowfy,auto,100.0,Prime Asia TV,tataplay.com,1823
+review,PrimeAsiaTV.ca@SD,BRIT ASIA TV [IN-UK],sktech,review,80.0,Prime Asia TV,tataplay.com,1823
+yes,PropexTV.in@jiotv,Propex TV,meowfy,auto,100.0,Propex TV,jiotv.com,953
+yes,PublicFirst.in@jiotv,Public First,meowfy,auto,100.0,Public First,jiotv.com,2957
+yes,PublicMovies.in@SD,Public Movies,meowfy,auto,100.0,Public Movies,dishtv.in,143686
+yes,PublicMusic.in@SD,Public Music,meowfy,auto,100.0,Public Music,dishtv.in,143687
+review,PublicMusic.in@SD,Public Asia,meowfy,review,78.3,Public Music,dishtv.in,143687
+yes,PudhariNews.in@SD,Pudhari News,meowfy,auto,100.0,Pudhari News,dishtv.in,158328
+review,PudhariNews.in@SD,Shri News,meowfy,review,76.2,Pudhari News,dishtv.in,158328
+yes,Pulse24.in@jiotv,Pulse 24,meowfy,auto,100.0,Pulse 24,jiotv.com,1897
+yes,PunjabPlus.in@jiotv,Punjab Plus,meowfy,auto,100.0,Punjab Plus,jiotv.com,1868
+yes,PunjabiHits.in@jiotv,Punjabi Hits,meowfy,auto,100.0,Punjabi Hits,jiotv.com,2934
+yes,PunjabiMelodies.in@jiotv,Punjabi Melodies,meowfy,auto,100.0,Punjabi Melodies,jiotv.com,2325
+yes,PuthiyaThalaimurai.in@SD,Puthiya Thalimurai,meowfy,auto,97.3,Puthiya Thalaimurai,dishtv.in,143692
+yes,PuthiyaThalaimurai.in@SD,PUTHIYA THALAIMURAI [IN],sktech,auto,100.0,Puthiya Thalaimurai,dishtv.in,143692
+yes,PuthuyugamTV.in@SD,Puthu Yugam,meowfy,auto,100.0,Puthuyugam TV,dishtv.in,143693
+yes,RTTV.in@jiotv,RT TV,meowfy,auto,100.0,RT TV,jiotv.com,1338
+yes,RaftaarMedia.in@SD,Raftaar Media,meowfy,auto,100.0,Raftaar Media,airtelxstream.in,LIVETV_LIVETVCHANNEL_RAFTAAR_MEDIA
+yes,RajDigitalPlus.in@SD,Raj Digital Plus,meowfy,auto,100.0,Raj Digital Plus,dishtv.in,143704
+yes,RajMusixKannada.in@SD,Raj Music Kannada,meowfy,auto,94.1,Raj Musix Kannada,dishtv.in,143705
+yes,RajMusixMalayalam.in@SD,Raj Music Malayalam,meowfy,auto,94.7,Raj Musix Malayalam,dishtv.in,143706
+yes,RajMusixTamil.in@SD,Raj Musix,meowfy,auto,100.0,Raj Musix Tamil,dishtv.in,143707
+yes,RajMusixTelugu.in@SD,Raj Music Telugu,meowfy,auto,93.8,Raj Musix Telugu,dishtv.in,143708
+yes,RajNews24x7.in@jiotv,Raj News 24x7,meowfy,auto,100.0,Raj News 24x7,jiotv.com,767
+yes,RajNewsKannada.in@SD,Raj News Kannada,meowfy,auto,100.0,Raj News Kannada,dishtv.in,143710
+review,RajNewsMalayalam.in@SD,News Malayalam,meowfy,review,81.5,Raj News Malayalam,dishtv.in,143711
+yes,RajNewsMalayalam.in@SD,Raj News Malayalam,meowfy,auto,100.0,Raj News Malayalam,dishtv.in,143711
+yes,RajNewsTelugu.in@SD,Raj News Telugu,meowfy,auto,100.0,Raj News Telugu,dishtv.in,143712
+yes,RajPariwar.in@SD,Raj Pariwar,meowfy,auto,100.0,Raj Pariwar,tataplay.com,1330
+yes,RajTV.in@SD,Raj TV,meowfy,auto,100.0,Raj TV,dishtv.in,143715
+yes,Ramdhenu.in@SD,Ramdhenu,meowfy,auto,100.0,Ramdhenu,dishtv.in,143717
+yes,Rang.in@SD,Rang,meowfy,auto,100.0,Rang,dishtv.in,143718
+yes,RealNewsKerala.in@SD,Real News Kerala,meowfy,auto,100.0,Real News Kerala,tataplay.com,1018
+yes,RedBullTV.in@jiotv,Red Bull TV,meowfy,auto,100.0,Red Bull TV,jiotv.com,2779
+yes,ReporterTV.in@SD,Reporter TV,meowfy,auto,100.0,Reporter TV,dishtv.in,85096
+review,RepublicBangla.in@SD,KTV Bangla,meowfy,review,77.8,Republic Bangla,dishtv.in,143697
+yes,RepublicBangla.in@SD,R Bangla,meowfy,auto,100.0,Republic Bangla,dishtv.in,143697
+yes,RepublicBharat.in@SD,Republic Bharat,meowfy,auto,100.0,Republic Bharat,dishtv.in,143724
+yes,RepublicBharat.in@SD,REPUBLIC BHARAT [IN],sktech,auto,100.0,Republic Bharat,dishtv.in,143724
+yes,RepublicKannada.in@SD,R.Kannada,meowfy,auto,100.0,Republic Kannada,dishtv.in,142883
+yes,RepublicTV.in@SD,Republic TV,meowfy,auto,100.0,Republic TV,dishtv.in,143723
+yes,RomedyNow.in@SD,ROMEDY NOW [IN],sktech,auto,100.0,Romedy Now,dishtv.in,143729
+yes,RongeenTV.in@SD,Rongeen TV,meowfy,auto,100.0,Rongeen TV,tataplay.com,1132
+yes,RupasiBangla.in@SD,Rupashi Bangla,meowfy,auto,96.3,Rupasi Bangla,dishtv.in,143733
+yes,RupasiBangla.in@SD,RUPASHI BANGLA [IN],sktech,auto,96.3,Rupasi Bangla,dishtv.in,143733
+yes,SBNews24x7.in@jiotv,SB News 24x7,meowfy,auto,100.0,SB News 24x7,jiotv.com,3110
+yes,STVHaryanaNews.in@jiotv,STV Haryana News,meowfy,auto,100.0,STV Haryana News,jiotv.com,1854
+review,SVBC.in@SD,PMC Telugu,meowfy,review,76.2,SVBC,dishtv.in,143889
+review,SVBC2.in@SD,SVBC2,meowfy,review,77.6,SVBC 2,dishtv.in,143890
+review,SVBC3.in@SD,SVBC3,meowfy,review,77.6,SVBC 3,tataplay.com,971
+yes,SVBC4.in@jiotv,SVBC4,meowfy,auto,100.0,SVBC4,jiotv.com,1859
+yes,SaamTV.in@SD,Saam Tv,meowfy,auto,100.0,Saam TV,dishtv.in,143735
+review,SaamTV.in@SD,Sharnam TV,meowfy,review,82.4,Saam TV,dishtv.in,143735
+yes,SacchiReport.in@jiotv,Sacchi Report,meowfy,auto,100.0,Sacchi Report,jiotv.com,2767
+review,SadhguruTelevisionHD.in@jiotv,Sadhguru Television Dolby,meowfy,likely,80.4,Sadhguru Television HD,jiotv.com,1201
+yes,Sadhna.in@SD,Sadhna,meowfy,auto,100.0,Sadhna,airtelxstream.in,LIVETV_LIVETVCHANNEL_SADHNA
+review,Sadhna.in@SD,Sidharth Gold,meowfy,review,75.0,Sadhna,airtelxstream.in,LIVETV_LIVETVCHANNEL_SADHNA
+yes,Sadhna.in@SD,Sadhna Gold,meowfy,auto,100.0,Sadhna,airtelxstream.in,LIVETV_LIVETVCHANNEL_SADHNA
+yes,SadhnaNewsMadhyaPradeshChhattisgarh.in@SD,Sadhna News MP CG,meowfy,auto,100.0,Sadhna News Madhya Pradesh/Chhattisgarh,tataplay.com,829
+review,SadhnaPlusNews.in@SD,Sadhna News Plus,meowfy,review,81.2,Sadhna Plus News,tataplay.com,827
+review,SadhnaPlusNews.in@SD,SADHNA PRIME NEWS [IN],sktech,review,78.8,Sadhna Plus News,tataplay.com,827
+yes,SafariTV.in@SD,Safari TV,meowfy,auto,100.0,Safari TV,dishtv.in,143739
+yes,SagaMusic.in@jiotv,SAGA MUSIC FHD [IN],sktech,auto,100.0,Saga Music,jiotv.com,2750
+yes,SagaMusicHaryanvi.in@jiotv,Saga Music Haryanvi,meowfy,auto,100.0,Saga Music Haryanvi,jiotv.com,2751
+yes,SaiLeela.in@jiotv,Sai Leela,meowfy,auto,100.0,Sai Leela,jiotv.com,1407
+yes,SaiTV.in@SD,Sai TV,meowfy,auto,100.0,Sai TV,dishtv.in,143741
+review,SaiTV.in@SD,SAB TV USA FHD [IN],sktech,review,83.3,Sai TV,dishtv.in,143741
+yes,SakshiTV.in@SD,Sakshi tv,meowfy,auto,100.0,Sakshi TV,dishtv.in,143744
+yes,SalaamTV.in@SD,Salaam TV,meowfy,auto,100.0,Salaam TV,dishtv.in,144466
+review,SamacharPlus24x7.in@SD,Vertent Samachar Plus 24x7,meowfy,review,75.8,Samachar Plus 24x7,tataplay.com,1281
+yes,SamacharToday.in@jiotv,Samachar Today,meowfy,auto,100.0,Samachar Today,jiotv.com,1538
+yes,SanaPlus.in@SD,Suvarna Plus,meowfy,likely,85.7,Sana Plus,tataplay.com,1284
+yes,SanaTV.in@SD,Sanjha TV,meowfy,likely,87.5,Sana TV,tataplay.com,1285
+yes,SanaTV.in@SD,Sansad TV HD,meowfy,likely,87.5,Sana TV,tataplay.com,1285
+yes,SanaTV.in@SD,Sansad TV,meowfy,likely,87.5,Sana TV,tataplay.com,1285
+review,SanaTV.in@SD,SUVARNA TV HD [IN],sktech,review,82.4,Sana TV,tataplay.com,1285
+review,SanaTV.in@SD,SANKHYA TV [IN-UK],sktech,review,82.4,Sana TV,tataplay.com,1285
+yes,SandeshNews.in@SD,Sandesh News,meowfy,auto,100.0,Sandesh News,dishtv.in,143755
+review,SandeshNews.in@SD,Janadesh News,meowfy,review,75.2,Sandesh News,dishtv.in,143755
+yes,SangeetBangla.in@SD,Sangeet Bangla,meowfy,auto,100.0,Sangeet Bangla,dishtv.in,143756
+yes,SangeetBhojpuri.in@SD,Sangeet Bhojpuri,meowfy,auto,100.0,Sangeet Bhojpuri,dishtv.in,143757
+yes,SangeetMarathi.in@SD,Sangeet Marathi,meowfy,auto,100.0,Sangeet Marathi,airtelxstream.in,LIVETV_LIVETVCHANNEL_SANGEET_MARATHI
+review,SankaraTV.in@SD,Sri Sankara,meowfy,review,82.0,Sankara TV,tataplay.com,477
+yes,SansadTVRajyaSabha.in@jiotv,Sansad TV Rajya Sabha,meowfy,auto,100.0,Sansad TV Rajya Sabha,jiotv.com,1886
+yes,SanskarTV.in@SD,Sanskar,meowfy,auto,100.0,Sanskar TV,dishtv.in,143713
+yes,SanskarTV.in@SD,SANSKAR TV [IN],sktech,auto,100.0,Sanskar TV,dishtv.in,143713
+yes,SanskarTV.in@SD,SANSKAR [IN-UK],sktech,auto,100.0,Sanskar TV,dishtv.in,143713
+yes,SantvaniChannel.in@SD,Santvani,meowfy,auto,100.0,Santvani Channel,dishtv.in,143763
+yes,SarvDharamSangam.in@SD,Sarv Dharam Sangam,meowfy,auto,100.0,Sarv Dharam Sangam,airtelxstream.in,LIVETV_LIVETVCHANNEL_SARV_DHARAM_SANGAM
+yes,SathiyamTV.in@SD,Sathiyam TV,meowfy,auto,100.0,Sathiyam TV,dishtv.in,143765
+yes,SatsangTV.in@SD,Satsang TV,meowfy,auto,100.0,Satsang TV,dishtv.in,143766
+yes,SatsangTV.in@SD,SATSANG TV [IN],sktech,auto,100.0,Satsang TV,dishtv.in,143766
+yes,Shalom.in@Global,Shalom,meowfy,auto,100.0,Shalom,dishtv.in,143774
+review,Shalom.in@Global,Soham TV,meowfy,review,82.4,Shalom,dishtv.in,143774
+yes,ShekinahTV.in@SD,Shekinah TV,meowfy,auto,100.0,Shekinah TV,tataplay.com,1313
+yes,ShemarooMarathiBana.in@SD,Shemaroo MarathiBana,meowfy,auto,100.0,Shemaroo Marathi Bana,dishtv.in,143777
+yes,ShemarooTV.in@SD,Shemaroo TV,meowfy,auto,100.0,Shemaroo TV,dishtv.in,143778
+yes,ShemarooTV.in@SD,SHEMAROO TV [IN],sktech,auto,100.0,Shemaroo TV,dishtv.in,143778
+yes,ShemarooUmang.in@SD,Shemaroo Umang,meowfy,auto,100.0,Shemaroo Umang,dishtv.in,143779
+yes,ShriAmarnathjiShrineBoard.in@jiotv,Shri Amarnathji Shrine Board,meowfy,auto,100.0,Shri Amarnathji Shrine Board,jiotv.com,1795
+yes,ShubhTV.in@SD,Shubh TV,meowfy,auto,100.0,Shubh TV,dishtv.in,143783
+yes,ShubhTV.in@SD,SHUBH TV USA HD [IN],sktech,auto,100.0,Shubh TV,dishtv.in,143783
+yes,ShubhTV.in@SD,SHUBH TV [IN],sktech,auto,100.0,Shubh TV,dishtv.in,143783
+yes,ShubhsandeshTV.in@SD,Shubhsandesh TV,meowfy,auto,100.0,Shubhsandesh TV,airtelxstream.in,LIVETV_LIVETVCHANNEL_SHUBHSANDESH_TV
+yes,SidharthTV.in@jiotv,Sidharth TV,meowfy,auto,100.0,Sidharth TV,jiotv.com,1956
+yes,SiriKannada.in@SD,Siri Kannada,meowfy,auto,100.0,Siri Kannada,dishtv.in,143790
+yes,SkyIndiaTv.in@jiotv,Sky India Tv,meowfy,auto,100.0,Sky India Tv,jiotv.com,3168
+yes,SmritiPatraTV.in@jiotv,Smriti Patra TV,meowfy,auto,100.0,Smriti Patra TV,jiotv.com,3104
+yes,SonicHindi.in@jiotv,Sonic Hindi,meowfy,auto,100.0,Sonic Hindi,jiotv.com,815
+yes,SonyAath.in@SD,Sony aath,meowfy,auto,100.0,Sony Aath,dishtv.in,157968
+yes,SonyAath.in@SD,SONY AATH [BENGALI],sktech,auto,100.0,Sony Aath,dishtv.in,157968
+yes,SonyBBCEarth.in@SD,Sony BBC Earth HD,meowfy,auto,100.0,Sony BBC Earth,dishtv.in,143799
+review,SonyEntertainmentTelevision.in@SD,SONY TV USA FHD [IN],sktech,review,80.0,Sony Entertainment Television,dishtv.in,157589
+review,SonyEntertainmentTelevision.in@SD,SONY TV FHD [IN],sktech,review,80.0,Sony Entertainment Television,dishtv.in,157589
+review,SonyEntertainmentTelevision.in@SD,SONY TV HD [IN],sktech,review,80.0,Sony Entertainment Television,dishtv.in,157589
+review,SonyEntertainmentTelevision.in@SD,SONY TV FHD (BK) [IN],sktech,review,80.0,Sony Entertainment Television,dishtv.in,157589
+review,SonyEntertainmentTelevision.in@SD,SONY TV [IN-UK],sktech,review,80.0,Sony Entertainment Television,dishtv.in,157589
+review,SonyEntertainmentTelevision.in@SD,SONY TV FHD [IN-UK],sktech,review,80.0,Sony Entertainment Television,dishtv.in,157589
+yes,SonyMarathi.in@SD,Sony Marathi SD,meowfy,auto,100.0,Sony Marathi,dishtv.in,157970
+yes,SonyMax.in@SD,SONY MAX FHD [IN],sktech,auto,100.0,Sony Max,dishtv.in,157590
+yes,SonyMax.in@SD,SONY MAX FHD (BK) [IN],sktech,auto,100.0,Sony Max,dishtv.in,157590
+yes,SonyMax.in@SD,SONY MAX [IN-UK],sktech,auto,100.0,Sony Max,dishtv.in,157590
+yes,SonyMax.in@SD,SONY MAX FHD [IN-UK],sktech,auto,100.0,Sony Max,dishtv.in,157590
+review,SonyMax1.in@SD,Sony MAX1,meowfy,review,84.5,Sony Max 1,dishtv.in,179440
+review,SonyMax2.in@SD,Sony MAX2,meowfy,review,84.5,Sony Max 2,dishtv.in,143801
+yes,SonyMax2.in@SD,SONY MAX 2 [IN],sktech,auto,100.0,Sony Max 2,dishtv.in,143801
+yes,SonyMax2.in@SD,SONY MAX 2 HD [IN],sktech,auto,100.0,Sony Max 2,dishtv.in,143801
+yes,SonyMax2.in@SD,SONY MAX 2 [IN-UK],sktech,auto,100.0,Sony Max 2,dishtv.in,143801
+yes,SonyPal.in@SD,Sony Pal,meowfy,auto,100.0,Sony Pal,dishtv.in,157973
+yes,SonyPal.in@SD,SONY PAL [IN],sktech,auto,100.0,Sony Pal,dishtv.in,157973
+yes,SonyPix.in@SD,Sony Pix HD,meowfy,auto,100.0,Sony Pix,dishtv.in,143802
+yes,SonyPix.in@SD,SONY PIX FHD [IN],sktech,auto,100.0,Sony Pix,dishtv.in,143802
+yes,SonySAB.in@HD,Sony SAB HD,meowfy,auto,100.0,Sony SAB,dishtv.in,159099
+yes,SonySAB.in@HD,SONY SAB FHD [IN],sktech,auto,100.0,Sony SAB,dishtv.in,159099
+yes,SonySAB.in@HD,SONY SAB HD [IN],sktech,auto,100.0,Sony SAB,dishtv.in,159099
+yes,SonySAB.in@HD,SONY SAB [IN-UK],sktech,auto,100.0,Sony SAB,dishtv.in,159099
+yes,SonySAB.in@HD,SONY SAB (BK) [IN-UK],sktech,auto,100.0,Sony SAB,dishtv.in,159099
+yes,SonySportsTen1.in@SD,Sony Sports Ten 1 HD,meowfy,auto,100.0,Sony Sports Ten 1,dishtv.in,157591
+review,SonySportsTen1.in@SD,TEN 1 FHD [SP],sktech,review,80.0,Sony Sports Ten 1,dishtv.in,157591
+review,SonySportsTen1.in@SD,TEN 1 HD [SP],sktech,review,80.0,Sony Sports Ten 1,dishtv.in,157591
+review,SonySportsTen1.in@SD,TEN 1 [SP],sktech,review,80.0,Sony Sports Ten 1,dishtv.in,157591
+yes,SonySportsTen2.in@SD,Sony Sports Ten 2 HD,meowfy,auto,100.0,Sony Sports Ten 2,dishtv.in,157592
+review,SonySportsTen2.in@SD,TEN 2 FHD [SP],sktech,review,80.0,Sony Sports Ten 2,dishtv.in,157592
+review,SonySportsTen2.in@SD,TEN 2 HD [SP],sktech,review,80.0,Sony Sports Ten 2,dishtv.in,157592
+review,SonySportsTen2.in@SD,TEN 2 [SP],sktech,review,80.0,Sony Sports Ten 2,dishtv.in,157592
+yes,SonySportsTen3Hindi.in@SD,Sony Sports Ten 3 Hindi HD,meowfy,auto,100.0,Sony Sports Ten 3 Hindi,dishtv.in,153079
+review,SonySportsTen3Hindi.in@SD,TEN 3 FHD [SP],sktech,review,80.0,Sony Sports Ten 3 Hindi,dishtv.in,153079
+review,SonySportsTen3Hindi.in@SD,TEN 3 HD [SP],sktech,review,80.0,Sony Sports Ten 3 Hindi,dishtv.in,153079
+review,SonySportsTen3Hindi.in@SD,TEN 3 [SP],sktech,review,80.0,Sony Sports Ten 3 Hindi,dishtv.in,153079
+yes,SonyWah.in@SD,Sony Wah,meowfy,auto,100.0,Sony Wah,dishtv.in,157974
+yes,SonyWah.in@SD,SONY WAH [IN],sktech,auto,100.0,Sony Wah,dishtv.in,157974
+yes,SonyYay.in@SD,SONY YAY [BENGALI],sktech,auto,100.0,Sony Yay!,dishtv.in,159100
+yes,SonyYay.in@SD,SONY YAY [IN],sktech,auto,100.0,Sony Yay!,dishtv.in,159100
+yes,SonyYayHindi.in@jiotv,Sony Yay Hindi,meowfy,auto,100.0,Sony Yay Hindi,jiotv.com,872
+yes,Spondon.in@jiotv,Spondon,meowfy,auto,100.0,Spondon,jiotv.com,2435
+yes,SriNagaSaiMandir.in@jiotv,Sri Naga Sai Mandir,meowfy,auto,100.0,Sri Naga Sai Mandir,jiotv.com,3221
+yes,SriVenkateshwarBhakti.in@jiotv,Sri Venkateshwar Bhakti,meowfy,auto,100.0,Sri Venkateshwar Bhakti,jiotv.com,598
+yes,StarBharat.in@HD,Star Bharat HD,meowfy,auto,100.0,Star Bharat,dishtv.in,159101
+yes,StarBharat.in@HD,Star Bharat,meowfy,auto,100.0,Star Bharat,dishtv.in,159101
+review,StarBharat.in@HD,Sanatan Bharat,meowfy,review,80.0,Star Bharat,dishtv.in,159101
+yes,StarBharat.in@HD,STAR BHARAT UK FHD [IN],sktech,auto,100.0,Star Bharat,dishtv.in,159101
+yes,StarBharat.in@HD,STAR BHARAT HD [IN],sktech,auto,100.0,Star Bharat,dishtv.in,159101
+yes,StarBharat.in@HD,STAR BHARAT FHD [IN],sktech,auto,100.0,Star Bharat,dishtv.in,159101
+review,StarBharat.in@HD,UTSAV BHARAT [IN-UK],sktech,review,78.3,Star Bharat,dishtv.in,159101
+review,StarBharat.in@HD,UTSAV BHARAT (BK) [IN-UK],sktech,review,78.3,Star Bharat,dishtv.in,159101
+yes,StarGold.in@HD,Star Gold HD,meowfy,auto,100.0,Star Gold,dishtv.in,143815
+yes,StarGold.in@HD,Star Gold,meowfy,auto,100.0,Star Gold,dishtv.in,143815
+yes,StarGold.in@HD,STAR GOLD FHD [IN],sktech,auto,100.0,Star Gold,dishtv.in,143815
+yes,StarGold.in@HD,STAR GOLD HD [IN],sktech,auto,100.0,Star Gold,dishtv.in,143815
+yes,StarGold2.in@SD,Star Gold 2 HD,meowfy,auto,100.0,Star Gold 2,dishtv.in,143814
+yes,StarGold2.in@SD,Star Gold 2,meowfy,auto,100.0,Star Gold 2,dishtv.in,143814
+yes,StarGold2.in@SD,STAR GOLD 2 [IN],sktech,auto,100.0,Star Gold 2,dishtv.in,143814
+yes,StarGoldRomance.in@SD,Star Gold Romance,meowfy,auto,100.0,Star Gold Romance,dishtv.in,158298
+yes,StarGoldRomance.in@SD,STAR GOLD ROMANCE [IN],sktech,auto,100.0,Star Gold Romance,dishtv.in,158298
+yes,StarGoldSelect.in@SD,Star Gold Select HD,meowfy,auto,100.0,Star Gold Select,dishtv.in,143816
+yes,StarGoldSelect.in@SD,Star Gold Select,meowfy,auto,100.0,Star Gold Select,dishtv.in,143816
+yes,StarGoldSelect.in@SD,STAR GOLD SELECT FHD [IN],sktech,auto,100.0,Star Gold Select,dishtv.in,143816
+yes,StarGoldSelect.in@SD,STAR GOLD SELECT HD [IN],sktech,auto,100.0,Star Gold Select,dishtv.in,143816
+yes,StarGoldThrills.in@SD,Star Gold Thrills,meowfy,auto,100.0,Star Gold Thrills,dishtv.in,158822
+yes,StarGoldThrills.in@SD,STAR GOLD THRILLS [IN],sktech,auto,100.0,Star Gold Thrills,dishtv.in,158822
+yes,StarJalsha.in@SD,Star Jalsha HD,meowfy,auto,100.0,Star Jalsha,dishtv.in,143818
+yes,StarJalsha.in@SD,Star Jalsha,meowfy,auto,100.0,Star Jalsha,dishtv.in,143818
+yes,StarJalsha.in@SD,STAR JALSHA HD [BENGALI],sktech,auto,100.0,Star Jalsha,dishtv.in,143818
+yes,StarJalsha.in@SD,STAR JALSHA [BENGALI],sktech,auto,100.0,Star Jalsha,dishtv.in,143818
+yes,StarJalsha.in@SD,STAR JALSHA FHD [IN],sktech,auto,100.0,Star Jalsha,dishtv.in,143818
+yes,StarKiran.in@SD,Star Kiran,meowfy,auto,100.0,Star Kiran,dishtv.in,143820
+yes,StarMaa.in@SD,Star Maa HD,meowfy,auto,100.0,Star Maa,dishtv.in,143821
+yes,StarMaa.in@SD,Star Maa,meowfy,auto,100.0,Star Maa,dishtv.in,143821
+yes,StarMaa.in@SD,MAA TV FHD [IN],sktech,auto,100.0,Star Maa,dishtv.in,143821
+yes,StarMaaGold.in@SD,Star Maa Gold,meowfy,auto,100.0,Star Maa Gold,dishtv.in,143822
+yes,StarMaaMovies.in@SD,Star Maa Movies HD,meowfy,auto,100.0,Star Maa Movies,dishtv.in,143825
+yes,StarMaaMovies.in@SD,Star Maa Movies,meowfy,auto,100.0,Star Maa Movies,dishtv.in,143825
+review,StarMaaMovies.in@SD,STAR JALSHA MOVIES HD [BENGALI],sktech,review,84.8,Star Maa Movies,dishtv.in,143825
+review,StarMaaMovies.in@SD,STAR JALSHA MOVIES [BENGALI],sktech,review,84.8,Star Maa Movies,dishtv.in,143825
+review,StarMaaMovies.in@SD,MN+ MOVIES FHD [IN],sktech,review,84.2,Star Maa Movies,dishtv.in,143825
+yes,StarMaaMovies.in@SD,JAYA MOVIES [IN],sktech,likely,85.7,Star Maa Movies,dishtv.in,143825
+yes,StarMaaMovies.in@SD,MAA MOVIES FHD [IN],sktech,auto,100.0,Star Maa Movies,dishtv.in,143825
+yes,StarMaaMovies.in@SD,MAHA MOVIE [IN],sktech,auto,90.0,Star Maa Movies,dishtv.in,143825
+yes,StarMaaMovies.in@SD,MAHA MOVIES [IN],sktech,auto,95.2,Star Maa Movies,dishtv.in,143825
+yes,StarMaaMusic.in@SD,Star Maa Music,meowfy,auto,100.0,Star Maa Music,dishtv.in,143828
+yes,StarMovies.in@SD,Star Movies HD,meowfy,auto,100.0,Star Movies,dishtv.in,140069
+yes,StarMovies.in@SD,Star Movies,meowfy,auto,100.0,Star Movies,dishtv.in,140069
+yes,StarMovies.in@SD,Oscar Movies,meowfy,likely,87.0,Star Movies,dishtv.in,140069
+yes,StarMoviesSelect.in@HD,Star Movies Select HD,meowfy,auto,100.0,Star Movies Select,dishtv.in,143830
+yes,StarMoviesSelect.in@HD,Star Movies Select,meowfy,auto,100.0,Star Movies Select,dishtv.in,143830
+yes,StarPlus.in@SD,Star Plus HD,meowfy,auto,100.0,StarPlus,dishtv.in,143831
+yes,StarPlus.in@SD,Star Plus,meowfy,auto,100.0,StarPlus,dishtv.in,143831
+review,StarPlus.in@SD,R Plus,meowfy,review,80.0,StarPlus,dishtv.in,143831
+review,StarPlus.in@SD,RPLUS [BENGALI],sktech,review,76.9,StarPlus,dishtv.in,143831
+yes,StarPlus.in@SD,STAR PLUS FHD [IN],sktech,auto,100.0,StarPlus,dishtv.in,143831
+yes,StarPlus.in@SD,STAR PLUS HD [IN],sktech,auto,100.0,StarPlus,dishtv.in,143831
+yes,StarPravah.in@SD,Star Pravah HD,meowfy,auto,100.0,Star Pravah,dishtv.in,143833
+yes,StarPravah.in@SD,Star Pravah,meowfy,auto,100.0,Star Pravah,dishtv.in,143833
+yes,StarPravah.in@SD,STAR PRAVAH HD [IN],sktech,auto,100.0,Star Pravah,dishtv.in,143833
+yes,StarSports1.in@SD,Star Sports 1 HD,meowfy,auto,100.0,Star Sports 1,dishtv.in,143835
+yes,StarSports1.in@SD,Star Sports 1,meowfy,auto,100.0,Star Sports 1,dishtv.in,143835
+yes,StarSports1.in@SD,STAR SPORTS 1 FHD [SP],sktech,auto,100.0,Star Sports 1,dishtv.in,143835
+yes,StarSports1.in@SD,STAR SPORTS 1 [SP],sktech,auto,100.0,Star Sports 1,dishtv.in,143835
+yes,StarSports1Hindi.in@HD,Star Sports 1 HD Hindi,meowfy,auto,100.0,Star Sports 1 Hindi,dishtv.in,143838
+yes,StarSports1Hindi.in@HD,Star Sports Hindi 1,meowfy,auto,100.0,Star Sports 1 Hindi,dishtv.in,143838
+review,StarSports1Hindi.in@HD,STAR SPORTS 1 ENGLISH HD [SP],sktech,review,80.0,Star Sports 1 Hindi,dishtv.in,143838
+yes,StarSports1Hindi.in@HD,STAR SPORTS 1 HINDI HD [SP],sktech,auto,100.0,Star Sports 1 Hindi,dishtv.in,143838
+yes,StarSports1Hindi.in@HD,STAR SPORTS HINDI 1 FHD [SP],sktech,auto,100.0,Star Sports 1 Hindi,dishtv.in,143838
+yes,StarSports1Hindi.in@HD,STAR SPORTS HINDI 1 [SP],sktech,auto,100.0,Star Sports 1 Hindi,dishtv.in,143838
+yes,StarSports1Kannada.in@SD,Star Sports 1 Kannada,meowfy,auto,100.0,Star Sports 1 Kannada,dishtv.in,143840
+yes,StarSports1Tamil.in@SD,Star Sports 1 Tamil HD,meowfy,auto,100.0,Star Sports 1 Tamil,dishtv.in,143842
+yes,StarSports1Tamil.in@SD,Star Sports 1 Tamil,meowfy,auto,100.0,Star Sports 1 Tamil,dishtv.in,143842
+yes,StarSports1Telugu.in@SD,Star Sports 1 Telugu HD,meowfy,auto,100.0,Star Sports 1 Telugu,dishtv.in,143843
+yes,StarSports1Telugu.in@SD,Star Sports 1 Telugu,meowfy,auto,100.0,Star Sports 1 Telugu,dishtv.in,143843
+yes,StarSports2.in@SD,Star Sports 2 HD,meowfy,auto,100.0,Star Sports 2,dishtv.in,143844
+yes,StarSports2.in@SD,Star Sports 2,meowfy,auto,100.0,Star Sports 2,dishtv.in,143844
+yes,StarSports2.in@SD,STAR SPORTS 2 FHD [SP],sktech,auto,100.0,Star Sports 2,dishtv.in,143844
+yes,StarSports2.in@SD,STAR SPORTS 2 HD [SP],sktech,auto,100.0,Star Sports 2,dishtv.in,143844
+yes,StarSports2.in@SD,STAR SPORTS 2 [SP],sktech,auto,100.0,Star Sports 2,dishtv.in,143844
+yes,StarSports2Hindi.in@SD,Star Sports 2 Hindi HD,meowfy,auto,100.0,Star Sports 2 Hindi,dishtv.in,143807
+yes,StarSports2Hindi.in@SD,Star Sports 2 Hindi,meowfy,auto,100.0,Star Sports 2 Hindi,dishtv.in,143807
+yes,StarSports2Kannada.in@SD,Star Sports 2 Kannada,meowfy,auto,100.0,Star Sports 2 Kannada,dishtv.in,143847
+yes,StarSports2Tamil.in@SD,Star Sports 2 Tamil HD,meowfy,auto,100.0,Star Sports 2 Tamil,dishtv.in,158352
+yes,StarSports2Tamil.in@SD,Star Sports 2 Tamil,meowfy,auto,100.0,Star Sports 2 Tamil,dishtv.in,158352
+yes,StarSports2Telugu.in@SD,Star Sports 2 Telugu HD,meowfy,auto,100.0,Star Sports 2 Telugu,dishtv.in,158351
+yes,StarSports2Telugu.in@SD,Star Sports 2 Telugu,meowfy,auto,100.0,Star Sports 2 Telugu,dishtv.in,158351
+yes,StarSports3.in@SD,Star Sports 3,meowfy,auto,100.0,Star Sports 3,dishtv.in,143846
+yes,StarSports3.in@SD,STAR SPORTS 3 [SP],sktech,auto,100.0,Star Sports 3,dishtv.in,143846
+yes,StarSportsKhel.in@SD,Star Sports Khel,meowfy,auto,100.0,Star Sports Khel,dishtv.in,143809
+yes,StarSportsSelect1.in@SD,Star Sports Select 1 HD,meowfy,auto,100.0,Star Sports Select 1,dishtv.in,143848
+yes,StarSportsSelect1.in@SD,Star Sports Select 1,meowfy,auto,100.0,Star Sports Select 1,dishtv.in,143848
+yes,StarSportsSelect1.in@SD,STAR SPORTS SELECT 1 FHD [SP],sktech,auto,100.0,Star Sports Select 1,dishtv.in,143848
+yes,StarSportsSelect1.in@SD,STAR SPORTS SELECT 1 HD [SP],sktech,auto,100.0,Star Sports Select 1,dishtv.in,143848
+yes,StarSportsSelect1.in@SD,STAR SPORTS SELECT 1 [SP],sktech,auto,100.0,Star Sports Select 1,dishtv.in,143848
+yes,StarSportsSelect2.in@SD,Star Sports Select 2 HD,meowfy,auto,100.0,Star Sports Select 2,dishtv.in,143850
+yes,StarSportsSelect2.in@SD,Star Sports Select 2,meowfy,auto,100.0,Star Sports Select 2,dishtv.in,143850
+yes,StarSportsSelect2.in@SD,STAR SPORTS SELECT 2 FHD [SP],sktech,auto,100.0,Star Sports Select 2,dishtv.in,143850
+yes,StarSportsSelect2.in@SD,STAR SPORTS SELECT 2 HD [SP],sktech,auto,100.0,Star Sports Select 2,dishtv.in,143850
+yes,StarSportsSelect2.in@SD,STAR SPORTS SELECT 2 [SP],sktech,auto,100.0,Star Sports Select 2,dishtv.in,143850
+yes,StarUtsav.in@SD,Star Utsav,meowfy,auto,100.0,Star Utsav,dishtv.in,159132
+yes,StarUtsav.in@SD,STAR UTSAV HD [IN],sktech,auto,100.0,Star Utsav,dishtv.in,159132
+yes,StarUtsavMovies.in@SD,Star Utsav Movies,meowfy,auto,100.0,Star Utsav Movies,dishtv.in,143856
+yes,StarUtsavMovies.in@SD,STAR UTSAV MOVIES FHD [IN],sktech,auto,100.0,Star Utsav Movies,dishtv.in,143856
+yes,StarVijay.in@HD,Star Vijay HD,meowfy,auto,100.0,Star Vijay,dishtv.in,144075
+yes,StarVijay.in@HD,Star Vijay,meowfy,auto,100.0,Star Vijay,dishtv.in,144075
+yes,StarVijay.in@HD,STAR VIJAY FHD [IN],sktech,auto,100.0,Star Vijay,dishtv.in,144075
+yes,StarVijay.in@HD,STAR VIJAY [IN],sktech,auto,100.0,Star Vijay,dishtv.in,144075
+yes,StudioOne.in@jiotv,Studio One,meowfy,auto,100.0,Studio One,jiotv.com,1274
+yes,StudioYuvaAlpha.in@jiotv,Studio Yuva Alpha,meowfy,auto,100.0,Studio Yuva Alpha,jiotv.com,1799
+yes,Subharti.in@jiotv,Subharti,meowfy,auto,100.0,Subharti,jiotv.com,1543
+yes,SubhavaarthaTV.in@SD,Subhavartha TV,meowfy,auto,96.6,Subhavaartha TV,dishtv.in,143869
+yes,Sudarshan.in@jiotv,Sudarshan,meowfy,auto,100.0,Sudarshan,jiotv.com,518
+yes,SudarshanNews.in@SD,SUDARSHAN NEWS [IN],sktech,auto,100.0,Sudarshan News,dishtv.in,143870
+yes,SunBangla.in@SD,U Bangla,meowfy,likely,88.9,Sun Bangla,dishtv.in,143871
+yes,SunMusic.in@SD,SUN MUSIC [IN],sktech,auto,100.0,Sun Music,dishtv.in,143876
+yes,SunNeo.in@SD,Sun Neo HD,meowfy,auto,100.0,Sun Neo,dishtv.in,160751
+yes,SunTV.in@SD,SUN TV [IN],sktech,auto,100.0,Sun TV,dishtv.in,117852
+yes,SuperHungama.in@SD,Super Hungama,meowfy,auto,100.0,Super Hungama,dishtv.in,143883
+review,SuriyanTV.in@SD,Sundrani TV,meowfy,review,76.2,Suriyan TV,tataplay.com,1384
+yes,SuryaSamachar.in@jiotv,Surya Samachar,meowfy,auto,100.0,Surya Samachar,jiotv.com,1257
+yes,SwadeshNews.in@SD,Swadesh News,meowfy,auto,100.0,Swadesh News,tataplay.com,1274
+yes,SwatantraNews.in@jiotv,Swatantra News,meowfy,auto,100.0,Swatantra News,jiotv.com,2187
+yes,SwayamPrabha01.in@jiotv,Swayam Prabha 01,meowfy,auto,100.0,Swayam Prabha 01,jiotv.com,980
+yes,SwayamPrabha04.in@jiotv,Swayam Prabha 04,meowfy,auto,100.0,Swayam Prabha 04,jiotv.com,984
+yes,SwayamPrabha05.in@jiotv,Swayam Prabha 05,meowfy,auto,100.0,Swayam Prabha 05,jiotv.com,986
+yes,SwayamPrabha06.in@jiotv,Swayam Prabha 06,meowfy,auto,100.0,Swayam Prabha 06,jiotv.com,987
+yes,SwayamPrabha09.in@jiotv,Swayam Prabha 09,meowfy,auto,100.0,Swayam Prabha 09,jiotv.com,988
+yes,SwayamPrabha10.in@jiotv,Swayam Prabha 10,meowfy,auto,100.0,Swayam Prabha 10,jiotv.com,989
+yes,SwayamPrabha11.in@jiotv,Swayam Prabha 11,meowfy,auto,100.0,Swayam Prabha 11,jiotv.com,990
+yes,SwayamPrabha12.in@jiotv,Swayam Prabha 12,meowfy,auto,100.0,Swayam Prabha 12,jiotv.com,991
+yes,SwayamPrabha15.in@jiotv,Swayam Prabha 15,meowfy,auto,100.0,Swayam Prabha 15,jiotv.com,995
+yes,SwayamPrabha17.in@jiotv,Swayam Prabha 17,meowfy,auto,100.0,Swayam Prabha 17,jiotv.com,996
+yes,SwayamPrabha19.in@jiotv,Swayam Prabha 19,meowfy,auto,100.0,Swayam Prabha 19,jiotv.com,401
+yes,SwayamPrabha20.in@jiotv,Swayam Prabha 20,meowfy,auto,100.0,Swayam Prabha 20,jiotv.com,403
+yes,SwayamPrabha21.in@jiotv,Swayam Prabha 21,meowfy,auto,100.0,Swayam Prabha 21,jiotv.com,997
+yes,TLCHindi.in@jiotv,TLC HD Hindi,meowfy,auto,100.0,TLC Hindi,jiotv.com,571
+yes,TLCHindi.in@jiotv,TLC Hindi,meowfy,auto,100.0,TLC Hindi,jiotv.com,571
+yes,TNI24.in@jiotv,TNI24,meowfy,auto,100.0,TNI24,jiotv.com,3016
+yes,TNIAwaaz.in@jiotv,TNI Awaaz,meowfy,auto,100.0,TNI Awaaz,jiotv.com,3049
+yes,TNews.in@SD,T News,meowfy,auto,100.0,T News,dishtv.in,143919
+yes,TNews.in@SD,TEJ NEWS [IN],sktech,likely,85.7,T News,dishtv.in,143919
+yes,TV100.in@SD,TV 100,meowfy,auto,100.0,TV 100,dishtv.in,173164
+yes,TV24.in@jiotv,TV24,meowfy,auto,100.0,TV24,jiotv.com,2225
+yes,TV27News.in@jiotv,TV27 News,meowfy,auto,100.0,TV27 News,jiotv.com,2081
+yes,TV5Kannada.in@SD,TV 5 Kannada,meowfy,likely,86.2,TV5 Kannada,dishtv.in,144024
+yes,TV5Monde.in@jiotv,TV5 Monde,meowfy,auto,100.0,TV5 Monde,jiotv.com,885
+review,TV5News.in@SD,TV 5 News,meowfy,review,83.4,TV5 News,dishtv.in,144025
+yes,TV9Bharatvarsh.in@SD,TV9 Bharatvarsh,meowfy,auto,100.0,TV9 Bharatvarsh,dishtv.in,144027
+yes,TV9Bharatvarsh.in@SD,TV9 BHARATVARSH [IN],sktech,auto,100.0,TV9 Bharatvarsh,dishtv.in,144027
+review,TV9Gujarati.in@SD,Tv 9 Gujarat,meowfy,review,82.3,TV9 Gujarati,dishtv.in,144028
+yes,TV9Maharashtra.in@jiotv,TV9 Maharashtra,meowfy,auto,100.0,TV9 Maharashtra,jiotv.com,617
+yes,TV9Telugu.in@SD,TV9 Telugu News,meowfy,auto,100.0,TV9 Telugu,dishtv.in,144031
+yes,TaazaTV.in@jiotv,Taaza TV,meowfy,auto,100.0,Taaza TV,jiotv.com,791
+yes,TabbarHits.in,Tabbar Hits,meowfy,auto,100.0,Tabbar Hits,dishtv.in,143292
+yes,TaiwanPlus.in@jiotv,Taiwan Plus,meowfy,auto,100.0,Taiwan Plus,jiotv.com,3084
+yes,TamilJanam.in@SD,Tamil Janam,meowfy,auto,100.0,Tamil Janam,airtelxstream.in,LIVETV_LIVETVCHANNEL_TAMIL_JANAM
+yes,TamilanTelevision.in@jiotv,Tamilan Television,meowfy,auto,100.0,Tamilan Television,jiotv.com,2958
+yes,TarangMusic.in@SD,Tarang Music,meowfy,auto,100.0,Tarang Music,dishtv.in,143926
+review,TarangTV.in@SD,Tar TV,meowfy,review,80.0,Tarang TV,dishtv.in,143927
+yes,TarangTV.in@SD,Tarang,meowfy,auto,100.0,Tarang TV,dishtv.in,143927
+review,TataSky4K.in@SD,TATA PLAY HI FHD [IN],sktech,review,79.7,Tata Sky 4K,tataplay.com,1301
+yes,TataSkyBeauty.in@SD,TATA PLAY BEAUTY [IN],sktech,auto,100.0,Tata Sky Beauty,tataplay.com,618
+review,TataSkyIbaadat.in@SD,TATA SKY BANGLA HD [BENGALI],sktech,review,77.4,Tata Sky Ibaadat,tataplay.com,735
+review,TataSkyShortsTV.in@SD,TATA PLAY SENIORS [IN],sktech,review,80.0,Tata Sky ShortsTV,tataplay.com,677
+yes,TataSkyShortsTV.in@SD,TATA PLAY SHORTV [IN],sktech,auto,94.1,Tata Sky ShortsTV,tataplay.com,677
+yes,TehzeebTV.in@jiotv,Tehzeeb TV,meowfy,auto,100.0,Tehzeeb TV,jiotv.com,1252
+yes,TheQIndia.us@SD,THEQ [IN],sktech,auto,100.0,The Q India,dishtv.in,144002
+yes,TimesNow.in@SD,Times NOW,meowfy,auto,100.0,Times Now,dishtv.in,144006
+yes,TimesNow.in@SD,TIMES NOW HD [IN-UK],sktech,auto,100.0,Times Now,dishtv.in,144006
+yes,TimesNowNavbharat.in@SD,Times Now Navbharat,meowfy,auto,100.0,Times Now Navbharat,dishtv.in,144007
+yes,TimesNowWorld.in@SD,Times Now World,meowfy,auto,100.0,Times Now World,dishtv.in,144008
+yes,Today24News.in@jiotv,Today 24 News,meowfy,auto,100.0,Today 24 News,jiotv.com,1895
+yes,Today24NewsUPUK.in@jiotv,Today 24 News UPUK,meowfy,auto,100.0,Today 24 News UPUK,jiotv.com,3066
+yes,TotalTVHaryana.in@SD,Total TV,meowfy,auto,100.0,Total TV Haryana,airtelxstream.in,LIVETV_LIVETVCHANNEL_TOTAL_TV
+yes,TotalTVHaryana.in@SD,Total TV Haryana,meowfy,auto,100.0,Total TV Haryana,airtelxstream.in,LIVETV_LIVETVCHANNEL_TOTAL_TV
+yes,TotalTVHaryana.in@SD,TOTAL TV USA [IN],sktech,auto,100.0,Total TV Haryana,airtelxstream.in,LIVETV_LIVETVCHANNEL_TOTAL_TV
+review,TotalTVHaryana.in@SD,TOTAL HARYANA [IN],sktech,review,83.7,Total TV Haryana,airtelxstream.in,LIVETV_LIVETVCHANNEL_TOTAL_TV
+yes,Travelxp.in@SD,Travelxp HD,meowfy,auto,100.0,Travelxp,dishtv.in,144014
+yes,Travelxp.in@SD,TRAVELXP [IN-UK],sktech,auto,100.0,Travelxp,dishtv.in,144014
+yes,TravelxpHDHindi.in@jiotv,Travelxp HD Hindi,meowfy,auto,100.0,Travelxp HD Hindi,jiotv.com,562
+yes,TravelxpHDHindi.in@jiotv,TRAVEL XP HINDI FHD [IN],sktech,likely,90.6,Travelxp HD Hindi,jiotv.com,562
+yes,TravelxpTamil.in@SD,Travelxp Tamil,meowfy,auto,100.0,Travelxp Tamil,tataplay.com,444
+yes,Tunes6.in@jiotv,Tunes 6,meowfy,auto,100.0,Tunes 6,jiotv.com,803
+yes,TwentyFourNews.in@SD,Twenty Four News,meowfy,auto,100.0,Twenty Four News,dishtv.in,144032
+yes,UniqueTV.in@SD,Unique Tv,meowfy,auto,100.0,Unique TV,dishtv.in,158844
+yes,UpdateIndia.in@jiotv,Update India,meowfy,auto,100.0,Update India,jiotv.com,2937
+yes,VIPNews.in@SD,VIP News,meowfy,auto,100.0,VIP News,airtelxstream.in,LIVETV_LIVETVCHANNEL_VIP_NEWS
+yes,VNMTV.in@jiotv,VNM TV,meowfy,auto,100.0,VNM TV,jiotv.com,1965
+yes,VRLive.in@jiotv,VR Live,meowfy,auto,100.0,VR Live,jiotv.com,1790
+review,VSTIndiaNews.in@jiotv,Today India News,meowfy,likely,80.0,VST India News,jiotv.com,3114
+yes,VTVNews.in@SD,VTV Gujarati,meowfy,auto,100.0,VTV News,dishtv.in,144083
+yes,VaanavilTV.in@jiotv,Vaanavil TV,meowfy,auto,100.0,Vaanavil TV,jiotv.com,971
+yes,VandeGujarat1.in@jiotv,Vande Gujarat 1,meowfy,auto,100.0,Vande Gujarat 1,jiotv.com,1069
+yes,VandeGujarat11.in@jiotv,Vande Gujarat 11,meowfy,auto,100.0,Vande Gujarat 11,jiotv.com,1089
+yes,VandeGujarat12.in@jiotv,Vande Gujarat 12,meowfy,auto,100.0,Vande Gujarat 12,jiotv.com,1090
+yes,VandeGujarat13.in@jiotv,Vande Gujarat 13,meowfy,auto,100.0,Vande Gujarat 13,jiotv.com,1091
+yes,VandeGujarat14.in@jiotv,Vande Gujarat 14,meowfy,auto,100.0,Vande Gujarat 14,jiotv.com,1092
+yes,VandeGujarat15.in@jiotv,Vande Gujarat 15,meowfy,auto,100.0,Vande Gujarat 15,jiotv.com,1093
+yes,VandeGujarat16.in@jiotv,Vande Gujarat 16,meowfy,auto,100.0,Vande Gujarat 16,jiotv.com,1094
+yes,VandeGujarat2.in@jiotv,Vande Gujarat 2,meowfy,auto,100.0,Vande Gujarat 2,jiotv.com,1070
+yes,VandeGujarat3.in@jiotv,Vande Gujarat 3,meowfy,auto,100.0,Vande Gujarat 3,jiotv.com,1082
+yes,VandeGujarat4.in@jiotv,Vande Gujarat 4,meowfy,auto,100.0,Vande Gujarat 4,jiotv.com,1071
+yes,VandeGujarat5.in@jiotv,Vande Gujarat 5,meowfy,auto,100.0,Vande Gujarat 5,jiotv.com,1083
+yes,VandeGujarat6.in@jiotv,Vande Gujarat 6,meowfy,auto,100.0,Vande Gujarat 6,jiotv.com,1084
+yes,VandeGujarat7.in@jiotv,Vande Gujarat 7,meowfy,auto,100.0,Vande Gujarat 7,jiotv.com,1085
+yes,VandeGujarat8.in@jiotv,Vande Gujarat 8,meowfy,auto,100.0,Vande Gujarat 8,jiotv.com,1086
+yes,VanithaTV.in@SD,Vanitha,meowfy,auto,100.0,Vanitha TV,tataplay.com,1135
+yes,VedicTV.in@jiotv,Vedic TV,meowfy,auto,100.0,Vedic TV,jiotv.com,856
+yes,VedicTV.in@jiotv,VEDIC TV [IN],sktech,auto,100.0,Vedic TV,jiotv.com,856
+yes,VelichamTV.in@SD,Velicham Tv,meowfy,auto,100.0,Velicham TV,dishtv.in,144070
+yes,VendharTV.in@SD,VENDHAR TV [IN],sktech,auto,100.0,Vendhar TV,tataplay.com,659
+yes,VijaySuper.in@SD,Vijay Super HD,meowfy,auto,100.0,Vijay Super,dishtv.in,144077
+yes,VijaySuper.in@SD,Vijay Super,meowfy,auto,100.0,Vijay Super,dishtv.in,144077
+yes,VijayTakkar.in@SD,Vijay Takkar,meowfy,auto,100.0,Vijay Takkar,dishtv.in,144078
+yes,VistaarNews.in@SD,Vistaar News,meowfy,auto,100.0,Vistaar News,airtelxstream.in,LIVETV_LIVETVCHANNEL_VISTAAR_NEWS
+yes,WION.in@SD,Wion,meowfy,auto,100.0,WION,dishtv.in,144087
+yes,WPNWorldPunjabiNews.in@jiotv,WPN World Punjabi News,meowfy,auto,100.0,WPN World Punjabi News,jiotv.com,2918
+yes,WildEarth.in@jiotv,Wild Earth,meowfy,auto,100.0,Wild Earth,jiotv.com,2437
+yes,WinTV.in@jiotv,Win TV,meowfy,auto,100.0,Win TV,jiotv.com,970
+yes,WowCinemaOne.in@jiotv,WOW CINEMA ONE [IN],sktech,auto,100.0,Wow Cinema One,jiotv.com,1366
+yes,YRFMusic.in@jiotv,YRF Music,meowfy,auto,100.0,YRF Music,jiotv.com,2753
+yes,YRFMusic.in@jiotv,YRF MUSIC FHD [IN],sktech,auto,100.0,YRF Music,jiotv.com,2753
+yes,Zee24Ghanta.in@SD,Zee 24 Ghanta,meowfy,auto,100.0,Zee 24 Ghanta,dishtv.in,144431
+review,Zee24Ghanta.in@SD,ZEE 24 GHANTA TV [BENGALI],sktech,review,83.7,Zee 24 Ghanta,dishtv.in,144431
+review,Zee24Ghanta.in@SD,24 GHANTA [BENGALI],sktech,review,75.8,Zee 24 Ghanta,dishtv.in,144431
+yes,Zee24Kalak.in@SD,Zee 24 Kalak,meowfy,auto,100.0,Zee 24 Kalak,dishtv.in,144432
+yes,Zee24Taas.in@SD,Zee 24 Taas,meowfy,auto,100.0,Zee 24 Taas,dishtv.in,144433
+yes,ZeeAction.in@SD,Zee Action,meowfy,auto,100.0,Zee Action,zee5.com,0-9-zeeaction
+yes,ZeeAction.in@SD,ZEE ACTION [IN],sktech,auto,100.0,Zee Action,zee5.com,0-9-zeeaction
+yes,ZeeBangla.in@SD,Zee Bangla HD,meowfy,auto,100.0,Zee Bangla,dishtv.in,117853
+yes,ZeeBangla.in@SD,Zee Bangla,meowfy,auto,100.0,Zee Bangla,dishtv.in,117853
+review,ZeeBanglaCinema.in@SD,Zee Anmol Cinema,meowfy,review,84.8,Zee Bangla Cinema,tataplay.com,254
+review,ZeeBanglaCinema.in@SD,ZEE ANMOL CINEMA [IN],sktech,review,84.8,Zee Bangla Cinema,tataplay.com,254
+yes,ZeeBharat.in@SD,Zee Bharat,meowfy,auto,100.0,Zee Bharat,dishtv.in,144450
+review,ZeeBharat.in@SD,ZEE HINDUSTAN [IN],sktech,review,80.0,Zee Bharat,dishtv.in,144450
+yes,ZeeBiharJharkhand.in@SD,Zee Bihar Jharkhand,meowfy,auto,100.0,Zee Bihar Jharkhand,dishtv.in,144153
+yes,ZeeBiharJharkhand.in@SD,ZEE BIHAR JHARKHAND [IN],sktech,auto,100.0,Zee Bihar Jharkhand,dishtv.in,144153
+yes,ZeeBiskope.in@SD,Zee Bioskope SD,meowfy,auto,95.7,Zee Biskope,dishtv.in,144209
+yes,ZeeBiskope.in@SD,ZEE BISKOPE [IN],sktech,auto,100.0,Zee Biskope,dishtv.in,144209
+yes,ZeeBollywood.in@SD,Zee Bollywood,meowfy,auto,100.0,Zee Bollywood,dishtv.in,144438
+yes,ZeeBollywood.in@SD,ZEE BOLLWOOD [IN],sktech,auto,96.0,Zee Bollywood,dishtv.in,144438
+review,ZeeBollywood.in@SD,ZEE ETC BOLLYWOOD [IN],sktech,review,80.7,Zee Bollywood,dishtv.in,144438
+yes,ZeeBusiness.in@SD,Zee Business,meowfy,auto,100.0,Zee Business,dishtv.in,144439
+yes,ZeeBusiness.in@SD,ZEE BUSINESS [IN],sktech,auto,100.0,Zee Business,dishtv.in,144439
+yes,ZeeCinema.in@HD,Zee Cinema HD,meowfy,auto,100.0,Zee Cinema,dishtv.in,144443
+yes,ZeeCinema.in@HD,Zee Cinema,meowfy,auto,100.0,Zee Cinema,dishtv.in,144443
+yes,ZeeCinema.in@HD,ZEE CINEMA [BENGALI],sktech,auto,100.0,Zee Cinema,dishtv.in,144443
+yes,ZeeCinema.in@HD,ZEE CINEMA HD [IN],sktech,auto,100.0,Zee Cinema,dishtv.in,144443
+yes,ZeeCinema.in@HD,ZEE CINEMA SD [IN],sktech,auto,100.0,Zee Cinema,dishtv.in,144443
+yes,ZeeCinema.in@HD,ZEE CINEMA FHD [IN],sktech,auto,100.0,Zee Cinema,dishtv.in,144443
+yes,ZeeCinema.in@HD,ZEE CINEMA FHD [IN-UK],sktech,auto,100.0,Zee Cinema,dishtv.in,144443
+yes,ZeeCinema.in@HD,ZEE CINEMA [IN-UK],sktech,auto,100.0,Zee Cinema,dishtv.in,144443
+yes,ZeeCinemalu.in@SD,Zee Cinemalu HD,meowfy,auto,100.0,Zee Cinemalu,dishtv.in,144445
+yes,ZeeCinemalu.in@SD,Zee Cinemalu,meowfy,auto,100.0,Zee Cinemalu,dishtv.in,144445
+yes,ZeeClassic.in@SD,Zee Classic,meowfy,auto,100.0,Zee Classic,dishtv.in,144447
+yes,ZeeClassic.in@SD,ZEE CLASSIC FHD [IN],sktech,auto,100.0,Zee Classic,dishtv.in,144447
+yes,ZeeDelhiNCRHaryana.in@SD,Zee Delhi NCR Haryana,meowfy,auto,100.0,Zee Delhi NCR Haryana,dishtv.in,144448
+yes,ZeeKannada.in@SD,Zee Kannada HD,meowfy,auto,100.0,Zee Kannada,dishtv.in,144451
+yes,ZeeKannada.in@SD,Zee Kannada,meowfy,auto,100.0,Zee Kannada,dishtv.in,144451
+yes,ZeeKannadaNews.in@SD,Zee Kannada News,meowfy,auto,100.0,Zee Kannada News,zee5.com,0-9-9z583537
+yes,ZeeKeralam.in@SD,Zee Keralam HD,meowfy,auto,100.0,Zee Keralam,dishtv.in,144454
+yes,ZeeMarathi.in@SD,Z Marathi HD,meowfy,auto,90.0,Zee Marathi,dishtv.in,144457
+yes,ZeeMarathi.in@SD,Z Marathi,meowfy,auto,90.0,Zee Marathi,dishtv.in,144457
+yes,ZeeNews.in@SD,Zee News,meowfy,auto,100.0,Zee News,dishtv.in,159298
+yes,ZeeNews.in@SD,ZEE NEWS [IN],sktech,auto,100.0,Zee News,dishtv.in,159298
+review,ZeeNews.in@SD,ZEE NEWS MP [IN],sktech,review,78.2,Zee News,dishtv.in,159298
+review,ZeeNews.in@SD,ZEE NEWS UP [IN],sktech,review,78.2,Zee News,dishtv.in,159298
+review,ZeeNewsMPChattisgarh.in@jiotv,Zee MP Chattisgarh,meowfy,likely,81.8,Zee News MP Chattisgarh,jiotv.com,658
+yes,ZeePower.in@SD,Zee Power HD,meowfy,auto,100.0,Zee Power,dishtv.in,144462
+review,ZeePunjabHaryanaHimachal.in@SD,Zee Punjab Haryana HP,meowfy,review,83.3,Zee Punjab Haryana Himachal,dishtv.in,144463
+yes,ZeePunjabi.in@SD,Zee Punjabi,meowfy,auto,100.0,Zee Punjabi,dishtv.in,144464
+yes,ZeeRajasthan.in@SD,Zee Rajasthan,meowfy,auto,100.0,Zee Rajasthan,dishtv.in,144465
+yes,ZeeRajasthan.in@SD,ZEE RAJASTHAN [IN],sktech,auto,100.0,Zee Rajasthan,dishtv.in,144465
+yes,ZeeSarthak.in@SD,Zee Sarthak,meowfy,auto,100.0,Zee Sarthak,dishtv.in,144467
+yes,ZeeSarthak.in@SD,ZEE SARTHAK [IN],sktech,auto,100.0,Zee Sarthak,dishtv.in,144467
+yes,ZeeTV.in@SD,Zee TV HD,meowfy,auto,100.0,Zee TV,dishtv.in,144478
+yes,ZeeTV.in@SD,Zee TV,meowfy,auto,100.0,Zee TV,dishtv.in,144478
+yes,ZeeTV.in@SD,ZEE TV FHD [IN],sktech,auto,100.0,Zee TV,dishtv.in,144478
+yes,ZeeTV.in@SD,ZEE TV HD [IN],sktech,auto,100.0,Zee TV,dishtv.in,144478
+yes,ZeeTV.in@SD,ZEE TV USA HD [IN],sktech,auto,100.0,Zee TV,dishtv.in,144478
+yes,ZeeTV.in@SD,ZEE TV HD [IN-UK],sktech,auto,100.0,Zee TV,dishtv.in,144478
+yes,ZeeTV.in@SD,ZEE TV [IN-UK],sktech,auto,100.0,Zee TV,dishtv.in,144478
+yes,ZeeTalkies.in@SD,Zee Talkies HD,meowfy,auto,100.0,Zee Talkies,dishtv.in,144468
+yes,ZeeTalkies.in@SD,Zee Talkies,meowfy,auto,100.0,Zee Talkies,dishtv.in,144468
+yes,ZeeTalkies.in@SD,ZEE TALKIES FHD [IN],sktech,auto,100.0,Zee Talkies,dishtv.in,144468
+yes,ZeeTamil.in@SD,Zee Tamil HD,meowfy,auto,100.0,Zee Tamil,dishtv.in,144470
+yes,ZeeTamil.in@SD,Zee Tamil,meowfy,auto,100.0,Zee Tamil,dishtv.in,144470
+review,ZeeTamil.in@SD,ZEE ANMOL HD [IN],sktech,review,77.8,Zee Tamil,dishtv.in,144470
+yes,ZeeTelugu.in@SD,Zee Telugu HD,meowfy,auto,100.0,Zee Telugu,dishtv.in,144473
+yes,ZeeTelugu.in@SD,Zee Telugu,meowfy,auto,100.0,Zee Telugu,dishtv.in,144473
+yes,ZeeTeluguNews.in@SD,Zee Telugu News,meowfy,auto,100.0,Zee Telugu News,dishtv.in,158329
+yes,ZeeThirai.in@SD,Zee Thirai HD,meowfy,auto,100.0,Zee Thirai,dishtv.in,144476
+review,ZeeThirai.in@SD,ZEE THIRAI TV [IN],sktech,review,81.0,Zee Thirai,dishtv.in,144476
+yes,ZeeUPUK.in@jiotv,Zee UP UK,meowfy,auto,100.0,Zee UP UK,jiotv.com,572
+yes,ZeeYuva.in@SD,Zee Yuva,meowfy,auto,100.0,Zee Yuva,dishtv.in,144481
+yes,ZeeYuva.in@SD,ZEE YUVA [IN],sktech,auto,100.0,Zee Yuva,dishtv.in,144481
+yes,Zing.in@SD,Zing,meowfy,auto,100.0,Zing!,dishtv.in,144484
+yes,Zing.in@SD,ZING [IN],sktech,auto,100.0,Zing!,dishtv.in,144484
+yes,Zing.in@SD,ZING [IN-UK],sktech,auto,100.0,Zing!,dishtv.in,144484
+yes,Zoom.in@SD,ZOOM,meowfy,auto,100.0,Zoom,dishtv.in,157600
+yes,Zoom.in@SD,ZOOM [IN],sktech,auto,100.0,Zoom,dishtv.in,157600
+yes,mh1Shraddha.in@jiotv,mh1 Shraddha,meowfy,auto,100.0,mh1 Shraddha,jiotv.com,609
