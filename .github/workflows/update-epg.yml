@@ -1,0 +1,74 @@
+name: Update EPG
+
+on:
+  schedule:
+    # 03:15 and 15:15 UTC daily -- twice a day is enough since most sources
+    # only publish 1-2 days of programme data ahead anyway.
+    - cron: "15 3,15 * * *"
+  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
+  push:
+    paths:
+      - "data/mapping.csv"   # re-grab immediately after you edit the mapping
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-epg
+  cancel-in-progress: true
+
+jobs:
+  update-epg:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout this repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Checkout iptv-org/epg grabber
+        uses: actions/checkout@v4
+        with:
+          repository: iptv-org/epg
+          path: epg-tool
+
+      - name: Cache epg-tool node_modules
+        uses: actions/cache@v4
+        with:
+          path: epg-tool/node_modules
+          key: epg-tool-${{ runner.os }}-${{ hashFiles('epg-tool/package-lock.json') }}
+
+      - name: Install epg-tool dependencies
+        working-directory: epg-tool
+        run: npm ci --no-audit --no-fund
+
+      - name: Build channels.xml from mapping.csv
+        run: python3 scripts/build_channels_xml.py
+
+      - name: Grab programme data
+        working-directory: epg-tool
+        run: >
+          npm run grab --
+          --channels=../channels.xml
+          --output=../guide.xml
+          --maxConnections=5
+          --delay=1000
+
+      - name: Post-process (add aliases, gzip)
+        run: python3 scripts/postprocess.py
+
+      - name: Commit updated guide
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/epg.xml output/epg.xml.gz
+          git diff --staged --quiet && echo "No changes" || git commit -m "Update EPG $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
